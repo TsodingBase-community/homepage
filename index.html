@@ -5,10 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tsoding Base homepage</title>
     <style>
+        @font-face {
+            font-family: Iosevka;
+            src: url(fonts/Iosevka-Extended.ttf) format('truetype');
+            font-weight: normal;
+            font-style:  normal;
+        }
+        @font-face {
+            font-family: Iosevka;
+            src: url(fonts/Iosevka-ExtendedBold.ttf) format('truetype');
+            font-weight: normal;
+            font-style: bold;
+        }
+        @font-face {
+            font-family: Iosevka;
+            src: url(fonts/Iosevka-ExtendedItalic.ttf) format('truetype');
+            font-weight: normal;
+            font-style:  italic;
+        }
         body {
+            font-family: Iosevka;
             background-color: #181818;
-            color: #eeeeee;
-            font-family: Arial, sans-serif;
+            color: #e4e4e4;
             margin: 0;
             padding: 20px;
         }
@@ -18,65 +36,90 @@
         p {
             line-height: 1.6;
         }
-        b {
+        .important {
             color: #ffd700;
+        }
+        i {
+            color: #87afd7;
         }
         a {
           color: #87d75f;
+        }
+        .body {
+            width:          80%;
+            margin:         auto;
+            display:        flex;
+            align-items:    left;
+            flex-direction: column;
+            max-width:      1000px;
         }
     </style>
 </head>
 <body>
 	<h1>Tsoding Base</h1>
-    <p>Tsoding Base is a project of Tsoding subscribers to make a database of Tsoding's VODs</p>
-    <h2>Tsoding Base contributer rules</h2>
-    <p>If you want to openly contribute to Tsoding Base project you <b>MUST</b> follow these rules</p>
-    <ol>
-        <li>No docker bullshitery <b>AT ALL</b></li>
-        <li><b>Should</b> use minimal amount of dependencies</li>
-        <li>Interpreted languages are <b>discouraged</b> (except for JS frontend)</li>
-        <li>No React</li>
-        <li>Being subscribed to Tsoding's yt channel</li>
-        <li>use of languages that targed multiple platforms (ARM, ARM64, x86_64, RISC-V(?)) is <b>encouraged</b></li>
-        <li>Use open-source licenses</li>
-        <li>Support each other developments and contribute if needed/requested</li>
-        <li>make dark theme option for frontend</li>
-        <li>Making additions to minitags/timespamps of <i>The Database</i> if possible</li>
-        <li>idk yet</li>
-    </ol>
-    <h2>TsodingBase json file standard</h2>
-    <pre>
-
-{
-    "vods": [
-        {
-            "videotitle": "",
-            "url": "",
-            "languages": [],
-            "project": "",
-            "tags": [],
-            "minitags": [],
-            "timestamps": [{"tag":"", "time":"HH:mm:ss.hh", "end_time":"HH:mm:ss.hh"}],
-            "date: ""
-        },
-        ...
-    ]
-}
-    </pre>
-    
-    <ul>
-        <li>languages - the most important is the first</li>
-        <li>project - name or "none"</li>
-        <li>tags - also possible "nerdy" and "low level", should be in multiple form when appropriate "compilerS, debuggerS"</li>
-        <li>minitags - themes that were covered only in part of VOD but still are significant on some level, added minitag MUST be added to timestamps with time (and optional end_time)</li>
-        <li>timestamps - end time is optional, used for clips (Laur asked nicely)</li>
-        <li>date - date of upload, whatever yt-dlp tells you</li>
-    </ul>
-
-    <p>Tags should contain: "library" if main topic is using a library, library name if non std library was used, "tools" if tool is main topic of stream and tool's name respectively</p>
-    <p><a href="tags.json">Example Json Is Here</a></p>
-
-    <p>If you have any ideas you can write them to Tsoding discord server and ping me <b>@linux_seller</b>, or dm me directly</p>
+    <div class="body">
+        <p><i>Tsoding Base</i> is a project of Tsoding subscribers to make a database of Tsoding's VODs</p>
+        <h2>Tsoding Base contributer rules</h2>
+        <p>If you want to openly contribute to Tsoding Base project you <b class="important">MUST</b> follow these rules</p>
+        <ol>
+            <li>No docker bullshitery <b>AT ALL</b></li>
+            <li><b class="important">Should</b> use minimal amount of dependencies</li>
+            <li>Interpreted languages are <b class="important">discouraged</b> (except for JS frontend)</li>
+            <li>No React</li>
+            <li>Being subscribed to Tsoding's yt channel</li>
+            <li>Use of languages that targed multiple platforms (ARM, ARM64, x86_64, RISC-V(?)) is <b class="important">encouraged</b></li>
+            <li>Use open-source licenses</li>
+            <li>Support each other developments and contribute if needed/requested</li>
+            <li><b class="important">Make</b> dark theme option for frontend</li>
+            <li>Making additions to minitags/timespamps of <i>The Database</i> if possible</li>
+            <li>Idk yet</li>
+        </ol>
+        <h2>TsodingBase json file standard</h2>
+        <pre>
+    {
+        "vods": [
+            {
+                "videotitle": "",
+                "url": "",
+                "languages": [],
+                "project": "",
+                "tags": [],
+                "minitags": [],
+                "timestamps": [{"tag":"", "time":"HH:mm:ss.hh", "end_time":"HH:mm:ss.hh"}],
+                "date: ""
+            },
+            ...
+        ]
+    }
+        </pre>
+        <ul>
+            <li>languages - the most important is the first</li>
+            <li>project - name or <i>"none"</i></li>
+            <li>tags - also possible <i>"nerdy"</i> and <i>"low level"</i>, should be in multiple form when appropriate "compilerS, debuggerS"</li>
+            <li>minitags - themes that were covered only in part of VOD but still are significant on some level, added minitag <b class="important">MUST</b> be added to timestamps with <i>"time"</i> (and optional <i>"end_time"</i>)</li>
+            <li>timestamps - <i>"end_time"</i> is optional, used for clips (Laur asked nicely)</li>
+            <li>date - date of upload, whatever yt-dlp tells you</li>
+        </ul>
+        <h3>Tagging rules</h3>
+        <ol>
+            <li>if main topic is using a library, tags <b class="important">should</b> contain <i>"library"</i></li>
+            <li>if non std library was used as a main topic of stream, tags <b class="important">must</b> contain library's name</li>
+            <li><i>"tools"</i> <b class="important">should</b> be added to tags if it was main topic of VOD</li>
+            <li>tools name <b class="important">must</b> be added to tags if it was main topic of VOD</li>
+            <li>if stream introduced new library/language/tool/OS, tags <b class="important">must</b> contain <i>"new {library,language,tool,OS}"</i> respectively</li>
+            <li>if unsure about tag or if you think more tags need to be added add "???". I.e.: <i>["???"] or ["idk if this tag is needed???"]</i></li>
+            <li>use <i>"raylib speedrun"</i> tag where appropriate</li>
+        </ol>
+        <h3>MiniTagging rules</h3>
+        <ol>
+            <li>Any minitag added must have respectful tag in timestamps with <b class="important">at least</b> <i>"time"</i> provided</li>
+        </ol>
+        <p><a href="tags.json">Example Json Is Here</a></p>
+        <p>If you have any ideas you can write them to Tsoding discord server and ping me <b>@linux_seller</b>, or dm me directly</p>
+    </div>
+    <footer>
+        <p>used font: Iosevka <a href="https://github.com/be5invis/Iosevka/blob/main/LICENSE.md">License<a></p>
+    </footer>
 </body>
 </html>
 

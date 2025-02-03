@@ -1,0 +1,5412 @@
+{
+  "vods": [
+    {
+      "videotitle": "Making Memory Safer in my C",
+      "url": "https://www.youtube.com/watch?v=jwb7SmyGr3A",
+      "languages": [
+        "C3",
+        "C"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "websockets",
+        "networking",
+        "coroutines"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Journey is Finally Over - I know Network Programming",
+      "url": "https://www.youtube.com/watch?v=jwb7SmyGr3A",
+      "languages": [
+        "C3",
+        "C"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "websockets",
+        "networking",
+        "coroutines"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I tried Ninja Build Tool and it changed me...",
+      "url": "https://www.youtube.com/watch?v=Z8znH5Grz7I",
+      "languages": [
+        "ninja",
+        "bash",
+        "Makefile"
+      ],
+      "project": "none",
+      "tags": [
+        "building",
+        "tools"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I switched from ASSEMBLY to C and it made my code better...",
+      "url": "https://www.youtube.com/watch?v=6WhEZ0ruzVU",
+      "languages": [
+        "C",
+        "fasm"
+      ],
+      "project": "coroutines",
+      "tags": [
+        "coroutines",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Compiling Should NOT be This Slow",
+      "url": "https://www.youtube.com/watch?v=aKk_r9ZwXQw",
+      "languages": [
+        "C",
+        "Tilde"
+      ],
+      "project": "none",
+      "tags": [
+        "compilers",
+        "languages"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Jai situation is insane!",
+      "url": "https://www.youtube.com/watch?v=jda3wgZxlgA",
+      "languages": [
+        "Jai"
+      ],
+      "project": "jaibreak",
+      "tags": [
+        "wasm",
+        "porting",
+        "web"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made Coroutines from scratch",
+      "url": "https://www.youtube.com/watch?v=sYSP_elDdZw",
+      "languages": [
+        "fasm",
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "coroutines",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Forget C - Assembly is All You Need",
+      "url": "https://www.youtube.com/watch?v=hzjBdIJ9Ycs",
+      "languages": [
+        "fasm"
+      ],
+      "project": "none",
+      "tags": [
+        "coroutines",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Library Turns C into Go",
+      "url": "https://www.youtube.com/watch?v=z1joHmzpoAc",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "concurrency",
+        "async",
+        "libmill",
+        "new library"
+      ],
+      "minitags": [],
+      "timestamps": [
+        {
+          "tag": "last good year",
+          "time": "00:01:45.00",
+          "end_time": "00:02:08.00"
+        }
+      ]
+    },
+    {
+      "videotitle": "What do you need select/poll/epoll for",
+      "url": "https://www.youtube.com/watch?v=eEHqCZpYtOE",
+      "languages": [
+        "C3"
+      ],
+      "project": "futures in C3",
+      "tags": [
+        "networking",
+        "async",
+        "optimization",
+        "low level",
+        "nerdy"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Async vs Multithreading",
+      "url": "https://www.youtube.com/watch?v=IGv5WYYmyfo",
+      "languages": [
+        "C3"
+      ],
+      "project": "futures in C3",
+      "tags": [
+        "async",
+        "futures",
+        "networking",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Creator of C3 improves the Lang Live as I use it",
+      "url": "https://www.youtube.com/watch?v=7z7tdqxn3m4",
+      "languages": [
+        "C3",
+        "C"
+      ],
+      "project": "futures in C3",
+      "tags": [
+        "futures",
+        "porting",
+        "panim"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made Futures from scratch",
+      "url": "https://www.youtube.com/watch?v=sNHzizPu7yQ",
+      "languages": [
+        "C3"
+      ],
+      "project": "futures in C3",
+      "tags": [
+        "futures",
+        "async"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Prequel to C3 nobody expected",
+      "url": "https://www.youtube.com/watch?v=WpepPeOl3DI",
+      "languages": [
+        "C2"
+      ],
+      "project": "",
+      "tags": [
+        "new language",
+        "sdl"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You Don't Need Text Editor - Just Use My ChatBot",
+      "url": "https://www.youtube.com/watch?v=D7iQ7LvI4vg",
+      "languages": [
+        "Go"
+      ],
+      "project": "Gatekeeper",
+      "tags": [
+        "bot",
+        "editor"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Is Jai Ready for Production?",
+      "url": "https://www.youtube.com/watch?v=Gfx7e8WQKCk",
+      "languages": [
+        "Jai"
+      ],
+      "project": "infinite pong",
+      "tags": [
+        "web???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Is SDL3 Ready For Production?",
+      "url": "https://www.youtube.com/watch?v=PuE98lipGU8",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "library",
+        "sdl"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You Don't Know Network Programming",
+      "url": "https://www.youtube.com/watch?v=JRTLSxGf_6w",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "networking",
+        "tcp???",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "WebSocket Protocol is Bonkers!!",
+      "url": "https://www.youtube.com/watch?v=iQRfzQQrHfo",
+      "languages": [
+        "C3"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "networking",
+        "websockets",
+        "nerdy",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Release is Crazy!!",
+      "url": "https://www.youtube.com/watch?v=7ZJ9pJJnxfI",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "library",
+        "raylib"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Library Make Parsing in C Easier",
+      "url": "https://www.youtube.com/watch?v=pdsq1YeHLuQ",
+      "languages": [
+        "C"
+      ],
+      "project": "random art",
+      "tags": [
+        "parsers"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Generative Shaders",
+      "url": "https://www.youtube.com/watch?v=JaG4kdyS_I8",
+      "languages": [
+        "C",
+        "shader"
+      ],
+      "project": "random art",
+      "tags": [
+        "raylib",
+        "shaders"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Server-Side Rendering in C",
+      "url": "https://www.youtube.com/watch?v=dkNv3KGOFT0",
+      "languages": [
+        "C"
+      ],
+      "project": "Tore",
+      "tags": [
+        "templates",
+        "web"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Implementing Scientific Paper in C",
+      "url": "https://www.youtube.com/watch?v=3D_h2RE0o0E",
+      "languages": [
+        "C"
+      ],
+      "project": "random art",
+      "tags": [
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Stress Testing WebSocket Implementation",
+      "url": "https://www.youtube.com/watch?v=QdmwBFSlnOE",
+      "languages": [
+        "C3",
+        "python"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "tools",
+        "autoban",
+        "networking",
+        "websockets"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "WebSocket Server from Zero by Specs",
+      "url": "https://www.youtube.com/watch?v=yrzv6o9Pnao",
+      "languages": [
+        "C3"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "networking",
+        "websockets"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "They made Python in Python",
+      "url": "https://www.youtube.com/watch?v=p8fCq16XTH4",
+      "languages": [
+        "Python"
+      ],
+      "project": "none",
+      "tags": [
+        "tools",
+        "pypy",
+        "rpython"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I couldn't find a WebSockets Library so I made one",
+      "url": "https://www.youtube.com/watch?v=-PfG87485Po",
+      "languages": [
+        "C3",
+        "C"
+      ],
+      "project": "websockets for C3",
+      "tags": [
+        "websockets",
+        "networking",
+        "nerdy"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Web Does No Innovation",
+      "url": "https://www.youtube.com/watch?v=TQFkpuCCNos",
+      "languages": [
+        "TS",
+        "html"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "audio",
+        "low level"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I Hacked C3 Compiler for This",
+      "url": "https://www.youtube.com/watch?v=01umadKzpvs",
+      "languages": [
+        "C3"
+      ],
+      "project": "Koil",
+      "tags": [
+        "gamedev",
+        "web"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hacking GNU utilities - m4",
+      "url": "https://www.youtube.com/watch?v=h164R46NWBM",
+      "languages": [
+        "m4",
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "tools",
+        "m4",
+        "raylib speedrun"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Back-face Culling in C on Linux",
+      "url": "https://www.youtube.com/watch?v=nIaVx-4UGUU",
+      "languages": [
+        "C"
+      ],
+      "project": "olive.c",
+      "tags": [
+        "3d",
+        "graphics",
+        "library",
+        "olive.c"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Configuring Emacs on My New Laptop",
+      "url": "https://www.youtube.com/watch?v=81MdyDYqB-A",
+      "languages": [
+        "elisp",
+        "lisp",
+        "english"
+      ],
+      "project": "none",
+      "tags": [
+        "configuring",
+        "talk"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Library Turned my C into JavaScript wtf",
+      "url": "https://www.youtube.com/watch?v=SbpusG7sHF4",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "new library",
+        "chello",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Using Breadth-first Search to Analyse 3D Mesh Components",
+      "url": "https://www.youtube.com/watch?v=V4Pd-aoaAOs",
+      "languages": [
+        "C"
+      ],
+      "project": "olive.c",
+      "tags": [
+        "3d",
+        "graphics",
+        "library",
+        "olive.c"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Parsing 3D File in C",
+      "url": "https://www.youtube.com/watch?v=IPEzHuSvPDA",
+      "languages": [
+        "C"
+      ],
+      "project": "olive.c",
+      "tags": [
+        "3d",
+        "graphics",
+        "library",
+        "olive.c"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "BASIC in 2024 has Potential",
+      "url": "https://www.youtube.com/watch?v=7_EV22SpDY4",
+      "languages": [
+        "BASIC"
+      ],
+      "project": "none",
+      "tags": [
+        "new language",
+        "raylib speedrun",
+        "fractals"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I Don't Need No Silly Frameworks You Can't Live Without",
+      "url": "https://www.youtube.com/watch?v=H-GO_bVUzCQ",
+      "languages": [
+        "C3",
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "gamedev",
+        "web"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I tried Swift and came out a different person",
+      "url": "https://www.youtube.com/watch?v=LTP5c4NqA8k",
+      "languages": [
+        "swift"
+      ],
+      "project": "none",
+      "tags": [
+        "new language"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "WASM on Backend is the Future",
+      "url": "https://www.youtube.com/watch?v=sXeB46d_7_w",
+      "languages": [
+        "C3",
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Everyone Should Use WebAssembly",
+      "url": "https://www.youtube.com/watch?v=sLWkUzbMhIU",
+      "languages": [
+        "C3",
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "gamedev",
+        "web",
+        "wasm",
+        "porting"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Breeding Words with C3 Language",
+      "url": "https://www.youtube.com/watch?v=_rrL20htMAM",
+      "languages": [
+        "C3"
+      ],
+      "project": "none",
+      "tags": [
+        "generating",
+        "fun",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Should've NOT Added Bombs to This Game 💀",
+      "url": "https://www.youtube.com/watch?v=ecX4olnWCLM",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "gamedev",
+        "web",
+        "online"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I Wrote Superhuman Code By Hands",
+      "url": "https://www.youtube.com/watch?v=6DEr82sj4zM",
+      "languages": [
+        "TS"
+      ],
+      "project": "none",
+      "tags": [
+        "nerdy",
+        "wtf"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "No Lag, First Try, Over 100 Players in a Single Place",
+      "url": "https://www.youtube.com/watch?v=JjN0KL-rAdA",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "online"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How tf Doom Even Did That?!",
+      "url": "https://www.youtube.com/watch?v=Bjcu3P74J2o",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "graphics",
+        "raycasting"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming w/o Language",
+      "url": "https://www.youtube.com/watch?v=rzXEsactdT4",
+      "languages": [
+        "llvm"
+      ],
+      "project": "none",
+      "tags": [
+        "nerdy",
+        "low level",
+        "raylib speedrun",
+        "llvm"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I contributed to C3 Compiler and So Can You",
+      "url": "https://www.youtube.com/watch?v=MqThCOjL-IM",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "nerdy",
+        "compilers"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in C3 to Annoy Zig fans",
+      "url": "https://www.youtube.com/watch?v=zRUg7X-c4bk",
+      "languages": [
+        "C3",
+        "JS"
+      ],
+      "project": "none",
+      "tags": [
+        "web",
+        "wasm",
+        "zozlib.js"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "They Made a Sequel to C",
+      "url": "https://www.youtube.com/watch?v=Qzw1m7PweXs",
+      "languages": [
+        "C3"
+      ],
+      "project": "none",
+      "tags": [
+        "new language",
+        "raylib speedrun"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "High Load without C/C++ (Only JavaScript)",
+      "url": "https://www.youtube.com/watch?v=o6Capa_V5QE",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "online",
+        "gamedev"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C is Dead. JavaScript will replace it.",
+      "url": "https://www.youtube.com/watch?v=2l6Rl09NyTw",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "online",
+        "gamedev"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding an Army of Bots",
+      "url": "https://www.youtube.com/watch?v=MeaTJSb6KWI",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "online",
+        "gamedev"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How to Make Multiplayer Online Games",
+      "url": "https://www.youtube.com/watch?v=Ih9OkNeg7v8",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "online",
+        "gamedev"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Squeezing Max Performance out of JavaScript",
+      "url": "https://www.youtube.com/watch?v=meiOJgnKgTs",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Retro 3D Engine is Ready",
+      "url": "https://www.youtube.com/watch?v=BZeZeikPk5o",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "raycasting"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Screw Vite! I'm Rolling out My Own Hot-Reloading!",
+      "url": "https://www.youtube.com/watch?v=96JvriLR4s8",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Secret to Fast JS Canvas",
+      "url": "https://www.youtube.com/watch?v=cjgaNzywZtQ",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "raycasting",
+        "optimization"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Almost Died from Heat Stroke but Figured out How Doom Renders Floors After 3 Days",
+      "url": "https://www.youtube.com/watch?v=MpfKdyMGPRA",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "raycasting"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "TypeScript is better than C for this",
+      "url": "https://www.youtube.com/watch?v=5al811UBRRc",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "raycastingv"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "3D in TypeScript using Ray Casting",
+      "url": "https://www.youtube.com/watch?v=K1xEkA46CuM",
+      "languages": [
+        "TS"
+      ],
+      "project": "Koil",
+      "tags": [
+        "web",
+        "gamedev",
+        "raycastingv"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Ok, but can you do this in C?",
+      "url": "https://www.youtube.com/watch?v=plFwBqBYpcY",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "code obfuscation",
+        "quine",
+        "nerdy"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hacking Raylib",
+      "url": "https://www.youtube.com/watch?v=mAwX7FEOpPA",
+      "languages": [
+        "C"
+      ],
+      "project": "musializer",
+      "tags": [
+        "raylib",
+        "contribution",
+        "audio"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Cracking Secret Message with C and Computer Vision",
+      "url": "https://www.youtube.com/watch?v=8vRuUFMXUdY",
+      "languages": [
+        "C"
+      ],
+      "project": "secret",
+      "tags": [
+        "image processing",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Test Anything with Python",
+      "url": "https://www.youtube.com/watch?v=32a52fOBDQY",
+      "languages": [
+        "Python"
+      ],
+      "project": "rere.py",
+      "tags": [
+        "testing",
+        "tools",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": [
+        {
+          "tag": "Guido van Rossum left",
+          "time": "00:27:26.00",
+          "end_time": "00:27:32.00"
+        }
+      ]
+    },
+    {
+      "videotitle": "Can you actually see more than 30 FPS?",
+      "url": "https://www.youtube.com/watch?v=pnhJ5SDZpGU",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "graphics",
+        "raylib"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why do C Programmers Always Obfuscate Their Code?",
+      "url": "https://www.youtube.com/watch?v=fJbAiXIum0k",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "code obfuscation",
+        "quine",
+        "nerdy"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is better than TempleOS",
+      "url": "https://www.youtube.com/watch?v=1PMf3FrFGD4",
+      "languages": [
+        "C++"
+      ],
+      "project": "none",
+      "tags": [
+        "new OS"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Newton's Method in C",
+      "url": "https://www.youtube.com/watch?v=ba3dYob18_A",
+      "languages": [
+        "C"
+      ],
+      "project": "none",
+      "tags": [
+        "math",
+        "nerdy",
+        "???"
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Can C actually do Perfect Bézier Curves?",
+      "url": "https://www.youtube.com/watch?v=T3YWbhO_a_E",
+      "languages": [
+        "C"
+      ],
+      "project": "panim",
+      "tags": [
+        ""
+      ],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Is C++ better than C?",
+      "url": "https://www.youtube.com/watch?v=E_yI_AtAvB8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "OOP in Pure C",
+      "url": "https://www.youtube.com/watch?v=6Riy9hVIFDE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Async Engine in C",
+      "url": "https://www.youtube.com/watch?v=Q65zhKkynDk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Is John Carmack Right about UI?!",
+      "url": "https://www.youtube.com/watch?v=p_5DQDeyujk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming Audio is Dangerous for Your Hearing!",
+      "url": "https://www.youtube.com/watch?v=b7UR-31X6Jw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I hope FFmpeg's Twitter won't Cancel me for This...",
+      "url": "https://www.youtube.com/watch?v=nL1l_n7wfPo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Own 3b1b Animation Engine but in C",
+      "url": "https://www.youtube.com/watch?v=RVwuYgXNUCM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Parsing Lisp with Rust (Tula Ep.03)",
+      "url": "https://www.youtube.com/watch?v=3jxCDCiozAU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Esoteric Language Development (Tula Ep.02)",
+      "url": "https://www.youtube.com/watch?v=YVzgxRZkbco",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Next Video Project (Tula Ep.01)",
+      "url": "https://www.youtube.com/watch?v=_n1JhruV3bY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I dramatically sped up my code",
+      "url": "https://www.youtube.com/watch?v=tH-1GiqdHx0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Content Aware Scaling in C",
+      "url": "https://www.youtube.com/watch?v=zrduCu8LYUM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made a Russian Programming Language",
+      "url": "https://www.youtube.com/watch?v=f4EOMbmIqqw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Eepers Gameplay Trailer",
+      "url": "https://www.youtube.com/watch?v=4JEbetrkJUs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I spent 2 days implementing Game of Life in Uxn",
+      "url": "https://www.youtube.com/watch?v=rTb6NFKUmQU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Most Bizarre and Fascinating Project I've seen!",
+      "url": "https://www.youtube.com/watch?v=d41KIL4cjQM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Control Your Dependencies",
+      "url": "https://www.youtube.com/watch?v=A_g6jfLx3ws",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Reviewing Your Pull Requests",
+      "url": "https://www.youtube.com/watch?v=F4xc4jQO7ck",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hiding Data Inside of Executable Files",
+      "url": "https://www.youtube.com/watch?v=dZRPY0D9nbU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Is this the Future of Programming Languages?",
+      "url": "https://www.youtube.com/watch?v=JTjNoejn4iA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hare Programming Language",
+      "url": "https://www.youtube.com/watch?v=2E3E_Rh3mvw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Unreasonable Effectiveness of Abstractions",
+      "url": "https://www.youtube.com/watch?v=Bafo3hhheHU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting Raylib in JavaScript",
+      "url": "https://www.youtube.com/watch?v=i4Tam03E-Oc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Easy Web Games in C",
+      "url": "https://www.youtube.com/watch?v=H_cnrhVYsK0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Easy Annoying Popups in C",
+      "url": "https://www.youtube.com/watch?v=GvWCpsZcaBE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I fixed Lua",
+      "url": "https://www.youtube.com/watch?v=5CaoYmXYx6U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "GameDev in Assembly?!",
+      "url": "https://www.youtube.com/watch?v=p60L-TOecik",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made JIT Compiler for Brainf*ck lol",
+      "url": "https://www.youtube.com/watch?v=mbFY3Rwv7XM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Just Buy More Cores (1min to 1sec no optimization)",
+      "url": "https://www.youtube.com/watch?v=yef1_cMFknM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Zip works Better than AI",
+      "url": "https://www.youtube.com/watch?v=9n39SbRPXKQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You don't need DOM",
+      "url": "https://www.youtube.com/watch?v=ZN4Nk4zHksU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Ridiculously Easy 3D in C (Color Quantization)",
+      "url": "https://www.youtube.com/watch?v=K7hWqxC_7Mw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Data Mining in C",
+      "url": "https://www.youtube.com/watch?v=kH-hqG34ylA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual DOM for Your Terminal",
+      "url": "https://www.youtube.com/watch?v=iKbylgzysHw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Better Way to Build C",
+      "url": "https://www.youtube.com/watch?v=mLUhSPD4F2k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Release is Insane!",
+      "url": "https://www.youtube.com/watch?v=CfeHFIP_xEI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made a New Programming Language",
+      "url": "https://www.youtube.com/watch?v=6k_sR6yCvps",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is Better than C for Binary Files",
+      "url": "https://www.youtube.com/watch?v=F4NM1N2D5-Q",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Web is in The Past - Native UI in C is Back",
+      "url": "https://www.youtube.com/watch?v=oyyV59dCyrA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You don't need Generics in C",
+      "url": "https://www.youtube.com/watch?v=o94JcrQThaM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Forbidden Rust",
+      "url": "https://www.youtube.com/watch?v=LQ2rX5B0DUA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hash Table in C",
+      "url": "https://www.youtube.com/watch?v=n-S9DBwPGTo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Unreasonably Easy Console Apps in Rust",
+      "url": "https://www.youtube.com/watch?v=vc5UPu76XOw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "All WebDev Sucks and you know it",
+      "url": "https://www.youtube.com/watch?v=3-KqO8g7qmk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I tried React and it Ruined My Life",
+      "url": "https://www.youtube.com/watch?v=XAGCULPO_DE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Viewers DDoSed my Rust App",
+      "url": "https://www.youtube.com/watch?v=Sw12N7-zqkk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I regret doing this... (Tsoding Q&A Stream)",
+      "url": "https://www.youtube.com/watch?v=pmQMTfSABhw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I rewrote My Go App in Rust",
+      "url": "https://www.youtube.com/watch?v=BbIEuNscn_E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Viewers DDoSed my Go App",
+      "url": "https://www.youtube.com/watch?v=qmmQAAJzM54",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Doing UI in C to Piss Off the React devs",
+      "url": "https://www.youtube.com/watch?v=SRgLA8X5N_4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Reverse Engineering Data Files",
+      "url": "https://www.youtube.com/watch?v=AUWxl0WdiNI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Best Coding Interview Question Ever",
+      "url": "https://www.youtube.com/watch?v=ey68sKSFJAU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Rust again",
+      "url": "https://www.youtube.com/watch?v=9mk19dpK9lM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is not Coq",
+      "url": "https://www.youtube.com/watch?v=qolDp7b4R2o",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You don't need React if you have C - Native UI is the Future",
+      "url": "https://www.youtube.com/watch?v=RRDB6vPbJDo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Compiler is All You Need - Refactoring Without IDE",
+      "url": "https://www.youtube.com/watch?v=ZLJzykUVN10",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "To-Do App in Assembly",
+      "url": "https://www.youtube.com/watch?v=WnBXLmKk_qw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Web in Native Assembly (Linux x86_64)",
+      "url": "https://www.youtube.com/watch?v=b-q4QBy52AA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Building Raylib using Only C Compiler (No CMake or Zig) (Nob Ep.03)",
+      "url": "https://www.youtube.com/watch?v=wH963jJ1lRM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Military Grade Build Tool for C (Nob Ep.02)",
+      "url": "https://www.youtube.com/watch?v=l9_TUMZSewo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How I Stopped Caring and Just Improved My Project (Nob Ep.01)",
+      "url": "https://www.youtube.com/watch?v=eRt7vhosgKE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Capturing Sounds with C",
+      "url": "https://www.youtube.com/watch?v=CCvpVNVS-9M",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Windows Development on Linux",
+      "url": "https://www.youtube.com/watch?v=EB96Auoag6g",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C + FFmpeg + Raylib = High Quality Videos (YES! It IS that simple!)",
+      "url": "https://www.youtube.com/watch?v=0To1aYglVHE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What if We combine Programming, Art, and Music?",
+      "url": "https://www.youtube.com/watch?v=1pqIg-Ug7bU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Ok I tried Tree-sitter! Here is what I think about it...",
+      "url": "https://www.youtube.com/watch?v=-8p-Jd9n-_I",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "With This Tool I don't need IDE anymore!",
+      "url": "https://www.youtube.com/watch?v=hb9X7fo81Yc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Ok, I made Google for C",
+      "url": "https://www.youtube.com/watch?v=wK1HjnwDQng",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Parsing C in 2023",
+      "url": "https://www.youtube.com/watch?v=_BrDLSLYGiQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "New Library for Matching Patterns",
+      "url": "https://www.youtube.com/watch?v=B2VS_zeuTQ4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Wait, but Who's Debugging the Debugger?!",
+      "url": "https://www.youtube.com/watch?v=ux3s1IIvNdg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Program Sucks!",
+      "url": "https://www.youtube.com/watch?v=ivLIov6ta-8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Text Editor Will Replace VSCode",
+      "url": "https://www.youtube.com/watch?v=AhPm8pv6dEs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Drag and Drop in C (Yes, it is possible! Let me show you how...)",
+      "url": "https://www.youtube.com/watch?v=fy3tA7gKnK8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C Logo is a Lie",
+      "url": "https://www.youtube.com/watch?v=wzU9VatPIUU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Weird Parts of C you probably never heard of...",
+      "url": "https://www.youtube.com/watch?v=PgDqBZFir1A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hot Code Reloading in C",
+      "url": "https://www.youtube.com/watch?v=Y57ruDOwH1g",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Music Visualizer (Fast Fourier Transform)",
+      "url": "https://www.youtube.com/watch?v=Xdbk1Pr5WXU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Learning Fortran in 2023",
+      "url": "https://www.youtube.com/watch?v=PvUQndB8R9s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Neural Network in C that Recognizes Shapes",
+      "url": "https://www.youtube.com/watch?v=fST6s4aOxuE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Do we even need Garbage Collector anymore?",
+      "url": "https://www.youtube.com/watch?v=UYLHA_Ey8Ys",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I implemented Goto in OCaml",
+      "url": "https://www.youtube.com/watch?v=iPrltr1b6Q4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What Separates Senior Devs from Juniors? The advice that actually helped me.",
+      "url": "https://www.youtube.com/watch?v=jmL_zRx59_Q",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C is the new CSS",
+      "url": "https://www.youtube.com/watch?v=1bYqbu3L220",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My GPU Almost Died Doing This Life Simulation",
+      "url": "https://www.youtube.com/watch?v=9s8vjf_vLaA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Simulating Life on my Computer like a Scientist",
+      "url": "https://www.youtube.com/watch?v=L68_BBiuHUw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I was wrong about Machine Learning! Here is what I learnt...",
+      "url": "https://www.youtube.com/watch?v=Vrps00O1LNw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "ok my AI can Generate Videos now",
+      "url": "https://www.youtube.com/watch?v=I_3d83cvByY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Dramatically Speeding-Up My AI Learning! (I'm actually a bit scared...)",
+      "url": "https://www.youtube.com/watch?v=eqIMsdYPaNs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Upscaling Images with Neural Network in C",
+      "url": "https://www.youtube.com/watch?v=ZjxPPvqNp3k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I liked Raylib better than SDL (ML in C Ep.05)",
+      "url": "https://www.youtube.com/watch?v=Sz-lXj0Ha6E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Visualizing Neural Networks in C (ML in C Ep.04)",
+      "url": "https://www.youtube.com/watch?v=-ii5SJCGjjU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Most Important Machine Learning Algorithm (ML in C Ep.03)",
+      "url": "https://www.youtube.com/watch?v=o7da9anmnMs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making a New Deep Learning Framework (ML in C Ep.02)",
+      "url": "https://www.youtube.com/watch?v=L1TbWe8bVOc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Machine Learning in C (Episode 1)",
+      "url": "https://www.youtube.com/watch?v=PGSba51aRYU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Pure Canvas UI is the Future (Autocell Ep.05)",
+      "url": "https://www.youtube.com/watch?v=vHQJZyr9rXM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I don't think I like Web anymore... (Autocell Ep.04)",
+      "url": "https://www.youtube.com/watch?v=PctTHER-fL4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Revolutionizing the Web (Autocell Ep.03)",
+      "url": "https://www.youtube.com/watch?v=IwZjJatbYoc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Living Machines in TypeScript (Autocell Ep.02)",
+      "url": "https://www.youtube.com/watch?v=Hz_13P7lRoA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Computer Science in TypeScript (NO DEGREE REQUIRED) (Autocell Ep.01)",
+      "url": "https://www.youtube.com/watch?v=ygdPRlSo3Qg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I unironically liked PHP better than C (c.php Ep.02)",
+      "url": "https://www.youtube.com/watch?v=CRswPcQNeWM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Amazingly Flexible C code without OOP or FP Ideological Bullsh*t",
+      "url": "https://www.youtube.com/watch?v=YvNlVAkHVwk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I compared Two PDF Libraries. C one was faster than Rust one.",
+      "url": "https://www.youtube.com/watch?v=vb7pX7pI7lI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Most Powerful Idea in Computer Graphics",
+      "url": "https://www.youtube.com/watch?v=aqK_nRCpcX8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Ok, I made C compiler in PHP (c.php Ep.01)",
+      "url": "https://www.youtube.com/watch?v=Yi6NxMxCFY8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Math Despite being Traumatized by Education System",
+      "url": "https://www.youtube.com/watch?v=cdVCpS4qvRA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Fixing Pixelated Images with C",
+      "url": "https://www.youtube.com/watch?v=WHwhBsI-i78",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rust Multi-Threading",
+      "url": "https://www.youtube.com/watch?v=9JULWqjM0Wg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding in Go while Google is Spying on Me",
+      "url": "https://www.youtube.com/watch?v=TS0C_pt08Go",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "3D ASCII with Colors",
+      "url": "https://www.youtube.com/watch?v=M-sIyi9VMSU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Text Editor is Getting Too Powerful",
+      "url": "https://www.youtube.com/watch?v=V-o1cKaWOQc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "On AI manipulating Humans",
+      "url": "https://www.youtube.com/watch?v=37dKzbyb6i0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C is Just Better than Bash",
+      "url": "https://www.youtube.com/watch?v=ldefArsm3x0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "File Diff in Python From Scratch",
+      "url": "https://www.youtube.com/watch?v=tm60fuF5v54",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I just wanted a Simple 2D Library in C but made This Instead... Oops...",
+      "url": "https://www.youtube.com/watch?v=IM8oA0yPq5k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "String Diff in Python",
+      "url": "https://www.youtube.com/watch?v=tG4IeY01-xw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C pixel-by-pixel Software 3D Rendering",
+      "url": "https://www.youtube.com/watch?v=xdShzvCZPBk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "NLP in Rust",
+      "url": "https://www.youtube.com/watch?v=zRZZ8i8YhGU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Graphics Library Works Everywhere! (Web, Native, Terminal)",
+      "url": "https://www.youtube.com/watch?v=SaK00JxeIB4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C/C++ Super Comments",
+      "url": "https://www.youtube.com/watch?v=T_sL5fSfrSg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Speeding up Rust Code",
+      "url": "https://www.youtube.com/watch?v=b0KIDIOL_i4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Low-Level Graphics Coding in C on Linux",
+      "url": "https://www.youtube.com/watch?v=SghsxbZh2P0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Clean Code and Successful Career in Software Development",
+      "url": "https://www.youtube.com/watch?v=3x02WZk9eec",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rust Web Development (Search Engine Ep.02)",
+      "url": "https://www.youtube.com/watch?v=OYAKjlYm_Ew",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I thought this was IMPOSSIBLE without OpenGL (Olive.c Ep.13 - Depth Buffer a.k.a. Z-buffer)",
+      "url": "https://www.youtube.com/watch?v=hntJGPGdgLg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Search Engine in Rust (Ep.01)",
+      "url": "https://www.youtube.com/watch?v=hm5xOJiVEeg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "LaTeX is The Best Thing to Explain Computer Graphics (Olive.c Ep.12 - Math Behind 3D Projection)",
+      "url": "https://www.youtube.com/watch?v=J39D-OTiyeY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Legendary Font Rendering",
+      "url": "https://www.youtube.com/watch?v=_t3mtjoHuoQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "No OpenGL Rainbow Triangle (Olive.c Ep.11 - Barycentric Coordinates and Triangular Interpolation)",
+      "url": "https://www.youtube.com/watch?v=Z6U3dM2P8qw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I can code My Text Editor in Itself Now",
+      "url": "https://www.youtube.com/watch?v=3xNM4jDOx3c",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I'm basically reinventing OpenGL at this point... (Olive.c. Ep.10 - Resizing Rectangular Sprites)",
+      "url": "https://www.youtube.com/watch?v=Ui5dEtaem0Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Military Grade C/C++ Lexer from Scratch",
+      "url": "https://www.youtube.com/watch?v=AqyZztKlSGQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What is a Lexer (No BS explanation)",
+      "url": "https://www.youtube.com/watch?v=BI3K-ME3L74",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I ported all my Graphics to Terminal (Olive.c Ep.09)",
+      "url": "https://www.youtube.com/watch?v=_hm4RbRZRrk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I invented Revolutionary Syntax Highlighting",
+      "url": "https://www.youtube.com/watch?v=OFHVhoHchNc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding \"Minecraft\" Text to My C Graphics Library (Olive.c Ep.08)",
+      "url": "https://www.youtube.com/watch?v=IkqhcQLWmRA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Selection to My Text Editor",
+      "url": "https://www.youtube.com/watch?v=CqEoH1rM3Ew",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I failed Math but Coded 3D From Scratch Anyway (Olive.c Ep.07)",
+      "url": "https://www.youtube.com/watch?v=V2MPHp0OQn8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding File Manager to My Text Editor",
+      "url": "https://www.youtube.com/watch?v=x3EctpmNFYM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How to Draw Smooth Circles (Olive.c Ep.06)",
+      "url": "https://www.youtube.com/watch?v=SoaXLQh3UQo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Infinitely Nested Loops",
+      "url": "https://www.youtube.com/watch?v=d-udAjI_7Ss",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rendering Text Editor on GPU",
+      "url": "https://www.youtube.com/watch?v=srV_l795O_s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Useless Key Occupying Useful Space",
+      "url": "https://www.youtube.com/watch?v=bjHAFj6_xHE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Easy trick I use to slice up images in memory (Olive.c Ep.05)",
+      "url": "https://www.youtube.com/watch?v=Dznpy9swEWA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "If you cringe at your old code, you're improving! (Ded S02E02)",
+      "url": "https://www.youtube.com/watch?v=ZPbe3m_-Res",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Transparency to My Graphics Library in C (Olive.c Ep.04)",
+      "url": "https://www.youtube.com/watch?v=aKnl8-qifvE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding My Own Text Editor Again (Ded S02E01)",
+      "url": "https://www.youtube.com/watch?v=w_yXlnjeAy4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Porting my C Graphics Library to Web (Olive.c Ep.03)",
+      "url": "https://www.youtube.com/watch?v=LKuuzY2ux78",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Thoughts on AI and the Future of Software Industry",
+      "url": "https://www.youtube.com/watch?v=-eS5-kaTSD0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Triangles to my Graphics Library in C (Olive.c Ep.02)",
+      "url": "https://www.youtube.com/watch?v=RVCwQmN9dzw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What Keyboard do I use as a Professional Software Developer",
+      "url": "https://www.youtube.com/watch?v=lM2Gf-WhwXI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This language is created for GameDev and it shows (Rope in Jai - Ep.02)",
+      "url": "https://www.youtube.com/watch?v=cvx55uRMcLs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding a rope in a secret language you have no access to (Rope in Jai - Ep.01)",
+      "url": "https://www.youtube.com/watch?v=K319-Msy7uI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "New Graphics Library in C (Olive.c Ep.01)",
+      "url": "https://www.youtube.com/watch?v=LmQKZmQh1ZQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in OpenGL be Like (Voronoi Ep.02)",
+      "url": "https://www.youtube.com/watch?v=qIOAz7M1syw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Procedural Graphics in C (Voronoi Ep.01)",
+      "url": "https://www.youtube.com/watch?v=kT-Mz87-HcQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made JVM in Python just to run \"Hello, World\" (JelloVM Ep.02)",
+      "url": "https://www.youtube.com/watch?v=anOidUQcv1w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Parsing Java Bytecode with Python (JelloVM Ep.01)",
+      "url": "https://www.youtube.com/watch?v=67FmRyv8jTM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "No Engine GameDev. How I Design Tutorials.",
+      "url": "https://www.youtube.com/watch?v=kjF_YuLsPqo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Better Animation To Sell My Game",
+      "url": "https://www.youtube.com/watch?v=YFtT48e9mA0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "JavaScript is the new C",
+      "url": "https://www.youtube.com/watch?v=6_C9h1dPp54",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why Do I Have Weird Line Numbers in My Editor?",
+      "url": "https://www.youtube.com/watch?v=v7GN6sj--no",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Read Code Instead of Documentation",
+      "url": "https://www.youtube.com/watch?v=yBIgzthMEWI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "DVD Logo Screensaver in Jai (compiled to wasm)",
+      "url": "https://www.youtube.com/watch?v=8_5L8yVHcII",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Patching WebAssembly Binary with C++",
+      "url": "https://www.youtube.com/watch?v=tfME9wwdgGw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What is Relative Pointers?",
+      "url": "https://www.youtube.com/watch?v=_HGkhvpCbsk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding in Pascal in The Modern Age",
+      "url": "https://www.youtube.com/watch?v=8UJNQt8DAWE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I compiled my Game to WebAssembly",
+      "url": "https://www.youtube.com/watch?v=LTDM14349ws",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Language does NOT support WebAssembly, but that didn't stop me...",
+      "url": "https://www.youtube.com/watch?v=sx1cjdJIU70",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Particle Effect without Any Game Engine",
+      "url": "https://www.youtube.com/watch?v=Y5liBU9f_jM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Custom Hot Reloading in Jai",
+      "url": "https://www.youtube.com/watch?v=tPUXbxH2AFA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why I Don't Code in Haskell Anymore?",
+      "url": "https://www.youtube.com/watch?v=SPwnfSmyAGI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Can Your C++ Do That?",
+      "url": "https://www.youtube.com/watch?v=BKvQXmEmDjU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Migrating from Zig to Jai",
+      "url": "https://www.youtube.com/watch?v=CDCU6b-WzAw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Trying Jai Language for the First Time",
+      "url": "https://www.youtube.com/watch?v=AwbLjR46HkY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why is C Compiler So Smart?",
+      "url": "https://www.youtube.com/watch?v=juWM6saNCZk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hacking C compiler",
+      "url": "https://www.youtube.com/watch?v=yKI-VOBBFu8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is Better Than Brainf*ck (Deque Programming Language)",
+      "url": "https://www.youtube.com/watch?v=WvwU0wdkB8U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Cool Shell in Rust (Noq Ep.06)",
+      "url": "https://www.youtube.com/watch?v=qKA2NZ1-kx0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Improving Syntax of My Language (Noq Ep.05)",
+      "url": "https://www.youtube.com/watch?v=Y7vyw_FFj8I",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Proving Basic Math (Noq Ep.04)",
+      "url": "https://www.youtube.com/watch?v=Ma4hPxc107s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I guess I'm making Another Language (Noq Ep.03)",
+      "url": "https://www.youtube.com/watch?v=LjI8-JyR864",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Paid Zig Stream",
+      "url": "https://www.youtube.com/watch?v=eIX9zER9vjY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rust Macros (Noq Ep.02)",
+      "url": "https://www.youtube.com/watch?v=LYIn_Ewpq-E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "New Math Language in Rust (Noq Ep.01)",
+      "url": "https://www.youtube.com/watch?v=Ra_Fk7JFMoo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "First Ancient Neural Network in C",
+      "url": "https://www.youtube.com/watch?v=WEk_grxrCcg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Porth - Structures",
+      "url": "https://www.youtube.com/watch?v=p1h36tD9yvY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Porth - Variables",
+      "url": "https://www.youtube.com/watch?v=CKvJhS3sUFM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Porth - Typed Pointers",
+      "url": "https://www.youtube.com/watch?v=66HzJEjZi5U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Simple Feature That Improves Error Handling",
+      "url": "https://www.youtube.com/watch?v=b0bGV7r3nPM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I turned My Language Into Brainf*ck Compiler",
+      "url": "https://www.youtube.com/watch?v=FgnxnTTnsUI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How Git Inspired Data Structure for My Compiler",
+      "url": "https://www.youtube.com/watch?v=CYp99h-faa0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "You Should NOT Program on Linux Like This",
+      "url": "https://www.youtube.com/watch?v=GmrDwSd-kW4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Automatically Removing Unused Code",
+      "url": "https://www.youtube.com/watch?v=9eOivtfswcE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I programmed in TypeScript",
+      "url": "https://www.youtube.com/watch?v=7EWcabXLXHo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Stealing Ideas from Python on How to Handle File Paths",
+      "url": "https://www.youtube.com/watch?v=5rJ_pLvSGxU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Unreasonable Effectiveness of Buffered IO",
+      "url": "https://www.youtube.com/watch?v=d4hmnE42La8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I've been programming without Negative Numbers the whole time",
+      "url": "https://www.youtube.com/watch?v=vmzxpUsN0uA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Water Ripple Effect with OpenGL and C",
+      "url": "https://www.youtube.com/watch?v=CbinTY7GEm0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "So I made a Web Server using My Programming Language",
+      "url": "https://www.youtube.com/watch?v=oE6_Ue0ZTHg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is how I add new features to my languages",
+      "url": "https://www.youtube.com/watch?v=6ZEtmwwbe9w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why Include Files Only Once?",
+      "url": "https://www.youtube.com/watch?v=LGvfGuE8maY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Snake Game for Linux using My Own Language",
+      "url": "https://www.youtube.com/watch?v=ihZZB1ngJxE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Better Stack Operations Have Been Discovered",
+      "url": "https://www.youtube.com/watch?v=NWmJdtT6Fww",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Cursed Textures with OpenGL and C",
+      "url": "https://www.youtube.com/watch?v=r_LmnmLJ5X0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This language feature literally implements itself",
+      "url": "https://www.youtube.com/watch?v=9yj-UqzarJY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Getting back to OpenGL after a long time...",
+      "url": "https://www.youtube.com/watch?v=evpwRlNhfDU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How Function Pointers Can Be Used?",
+      "url": "https://www.youtube.com/watch?v=Ord0-ZhMguk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Verifying main() function",
+      "url": "https://www.youtube.com/watch?v=xXutZ1oGrag",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I don't use Python anymore...",
+      "url": "https://www.youtube.com/watch?v=wqyYU4aQGQ8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Generating Dirty Code in Python",
+      "url": "https://www.youtube.com/watch?v=zwOzh6Wh5Os",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hiding Information Inside of PNG",
+      "url": "https://www.youtube.com/watch?v=M9ZwuIv3xz8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Fixing Juicy Assembly Bug",
+      "url": "https://www.youtube.com/watch?v=AsvCgUxSA1Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Importance of Handling Child Process Exit Status",
+      "url": "https://www.youtube.com/watch?v=MQCZieHhgMc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "When optimization breaks your code",
+      "url": "https://www.youtube.com/watch?v=-gIWxGQkIJo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "The Power of Inline Functions",
+      "url": "https://www.youtube.com/watch?v=4WliHftiJxQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "We need Faster Assembler",
+      "url": "https://www.youtube.com/watch?v=vOEbLg51Veg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC in HolyC Day 17",
+      "url": "https://www.youtube.com/watch?v=CUUrggXNgu0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC in HolyC Day 16",
+      "url": "https://www.youtube.com/watch?v=owsNeFJSTSg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I got Jebaited (AoC in HolyC Day 15)",
+      "url": "https://www.youtube.com/watch?v=ACLtrR9oboc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC in HolyC Day 14",
+      "url": "https://www.youtube.com/watch?v=kRoxFt2kz9o",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I failed Day 13 (AoC in HolyC)",
+      "url": "https://www.youtube.com/watch?v=h-Kzhk3AJS4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Searching All Paths in a Graph (AoC in HolyC Day 12)",
+      "url": "https://www.youtube.com/watch?v=QVTcXGC2NMk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Graphics in TempleOS is Too Easy",
+      "url": "https://www.youtube.com/watch?v=d3eFHyryopQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Simulating Emergent Synchronization (AoC in HolyC Day 11)",
+      "url": "https://www.youtube.com/watch?v=AO3UcSqC62Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Fixing Unmatched Brackets Automatically (AoC in HolyC Day 10)",
+      "url": "https://www.youtube.com/watch?v=ffcvLZDBBRE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Literally Simulating Lava at this point (AoC in HolyC Day 9)",
+      "url": "https://www.youtube.com/watch?v=da8Egg4QU6Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC in HolyC Day 8",
+      "url": "https://www.youtube.com/watch?v=uYG-UZPnJiY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Fixing Palette Using Only C",
+      "url": "https://www.youtube.com/watch?v=HIFj2LjFSYY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I riced my TempleOS (AoC in HolyC Day 7)",
+      "url": "https://www.youtube.com/watch?v=V_lnh-PQRTs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "day 6 was ez (AoC in HolyC)",
+      "url": "https://www.youtube.com/watch?v=ijWjQd4HwQA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2021 in TempleOS — Day 05",
+      "url": "https://www.youtube.com/watch?v=o2gsM3LGFL0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2021 in TempleOS — Day 04",
+      "url": "https://www.youtube.com/watch?v=qj4GIPE374A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Porting My C Library to HolyC for Advent of Code",
+      "url": "https://www.youtube.com/watch?v=B90ilKY-QNg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2021 in TempleOS — Day 03",
+      "url": "https://www.youtube.com/watch?v=DqOVI7LYV3o",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2021 in TempleOS — Day 02",
+      "url": "https://www.youtube.com/watch?v=qcZVBI6Ea1A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2021 in TempleOS — Day 01",
+      "url": "https://www.youtube.com/watch?v=nvldfkikveI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Plans on Advent of Code 2021",
+      "url": "https://www.youtube.com/watch?v=MMqd-6wNJQ4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Reactive GUI From Scratch with Just Rectangles",
+      "url": "https://www.youtube.com/watch?v=-e_yyggsh_o",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why Dynamic Arrays Are Moving in Memory?",
+      "url": "https://www.youtube.com/watch?v=4J7NtXBnd14",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Stealing ideas from other Open Source projects",
+      "url": "https://www.youtube.com/watch?v=oyoTEzgFqq8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Memory Management Experiments in Rust (Porth Ep.31)",
+      "url": "https://www.youtube.com/watch?v=sAz_E4TZ-eQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Using C instead of Bash",
+      "url": "https://www.youtube.com/watch?v=assDDVG0PEo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Data Structure could be used for Autocomplete",
+      "url": "https://www.youtube.com/watch?v=2fosrL7I7oc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Native Simulation Mode for My Language (Porth Ep.30)",
+      "url": "https://www.youtube.com/watch?v=6tl7YmTnFQ4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made a whole Language just to Generate This Thumbnail",
+      "url": "https://www.youtube.com/watch?v=0K05OdikAgY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "White Noise Generator in C",
+      "url": "https://www.youtube.com/watch?v=z3S60XTXdlw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "It Compiles Itself (Porth Ep.29)",
+      "url": "https://www.youtube.com/watch?v=zA3O7cNx8dw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Uh-oh! My Language is Slower Than Python! (Porth Ep.28)",
+      "url": "https://www.youtube.com/watch?v=zQUcqAkg3CM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Compile Time Checks (Porth Ep.27)",
+      "url": "https://www.youtube.com/watch?v=nY3FsgdSpW4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Local Memory (Porth Ep.26)",
+      "url": "https://www.youtube.com/watch?v=SQxDKnaCSC4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Deprecating Macros (Porth Ep.25)",
+      "url": "https://www.youtube.com/watch?v=oeRIKEex0Gc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Let's Talk About Functional Programming",
+      "url": "https://www.youtube.com/watch?v=9nik-50ET3Q",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Uh-Oh! My Language Causes Bloat! (Porth Ep.24)",
+      "url": "https://www.youtube.com/watch?v=wEv5R2aKOtk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Memory Allocation (Porth Ep.23)",
+      "url": "https://www.youtube.com/watch?v=TMlVSGGLIZo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Comparing Strings is Hard (Porth Ep.22)",
+      "url": "https://www.youtube.com/watch?v=33P7g_ymK1A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I moved to GitLab (Porth Ep.21)",
+      "url": "https://www.youtube.com/watch?v=1eVCz4-_S6Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is Readable (Porth Ep.20)",
+      "url": "https://www.youtube.com/watch?v=QsKnBPsrDVY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Answering Questions about My Language (Porth Ep.19)",
+      "url": "https://www.youtube.com/watch?v=IQW8Jr849jM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Debugging Tool For My Compiler (Porth Ep.18)",
+      "url": "https://www.youtube.com/watch?v=85kMAOtZsTE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting My Language in itself (Porth Ep.17)",
+      "url": "https://www.youtube.com/watch?v=nsjXy-rv3vM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Inverting Binary Tree Without Recursion in Rust",
+      "url": "https://www.youtube.com/watch?v=QkuNmL7tz08",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advanced Type Checking (Porth Ep.16)",
+      "url": "https://www.youtube.com/watch?v=4WGCI_O8NAQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Static Type Checking (Porth Ep.15)",
+      "url": "https://www.youtube.com/watch?v=MiR26zWzPQ0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Basically Emulating Linux with Python at this point... (Porth Ep.14)",
+      "url": "https://www.youtube.com/watch?v=iUQXfePclQY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How Do I Unit Test?",
+      "url": "https://www.youtube.com/watch?v=41q9yUobk5k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Turning Bug into a Feature (Porth Ep.13)",
+      "url": "https://www.youtube.com/watch?v=VERtSng5F9s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Safety For Macros (Porth Ep.12)",
+      "url": "https://www.youtube.com/watch?v=9xP30akTNyA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Python is Too Slow",
+      "url": "https://www.youtube.com/watch?v=Dc_dVBrOshE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "I made a whole Language just to solve Coding Problems (Porth Ep.10)",
+      "url": "https://www.youtube.com/watch?v=GV1yjYnr8_o",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Static Types in Python? (Porth Ep.09)",
+      "url": "https://www.youtube.com/watch?v=_7jnWBK0woA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Macros | Compiler Development | Porth Ep.08",
+      "url": "https://www.youtube.com/watch?v=4-eFQ7jurm0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Compiler Development | String Literals | Porth Ep.07",
+      "url": "https://www.youtube.com/watch?v=bN_8ZK7WoxI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why is C Faster Than My Language?",
+      "url": "https://www.youtube.com/watch?v=vFB0Ot-ZdIM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Compiler without LLVM in 2021 KEKW — Porth Ep.05",
+      "url": "https://www.youtube.com/watch?v=Cm76TYPC-ow",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "writing simple programming language — Porth Ep.04",
+      "url": "https://www.youtube.com/watch?v=z75oTuB2cU8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Generating Assembly with Python — Conditions and Loops — Porth Ep.03",
+      "url": "https://www.youtube.com/watch?v=QlKSCn-Al6Q",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Python List Comprehension for Better Error Reporting in My Language — Porth Ep.02",
+      "url": "https://www.youtube.com/watch?v=Gla_7umYcPQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making Programming Language in Python -- Porth Ep.01",
+      "url": "https://www.youtube.com/watch?v=8QP2fDBIxjM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My First Hello, World in C. Very proud!",
+      "url": "https://www.youtube.com/watch?v=hmMtQe_mYr0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Playing with X11 Double Buffering Extension",
+      "url": "https://www.youtube.com/watch?v=osnd75j7Wco",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Searching Duplicate Files with C",
+      "url": "https://www.youtube.com/watch?v=bpCJf67e1lI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Multi-Threading in C — Barriers",
+      "url": "https://www.youtube.com/watch?v=zhErv2CPqiY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How to Draw Lines with Shaders?",
+      "url": "https://www.youtube.com/watch?v=cU5WcrU_YI4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — part 6",
+      "url": "https://www.youtube.com/watch?v=pfAhIpbnZfM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — part 5",
+      "url": "https://www.youtube.com/watch?v=vzrrKH67j-w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — Part 4",
+      "url": "https://www.youtube.com/watch?v=11_eu-D6FMo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — Part 3",
+      "url": "https://www.youtube.com/watch?v=mzJdGLfLRf8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — Part 2",
+      "url": "https://www.youtube.com/watch?v=Zn3yHU09YwE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2mpeg4yuv — Part 1",
+      "url": "https://www.youtube.com/watch?v=U4EP2CoRmc4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rendering This in Real-Time on CPU",
+      "url": "https://www.youtube.com/watch?v=PUu5kjoWw0k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Anti-Aliasing in Rust",
+      "url": "https://www.youtube.com/watch?v=8QmPpf4k34E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Shadertoy Math — Circle-Rect Intersection",
+      "url": "https://www.youtube.com/watch?v=5r-8JCOsJwA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding a Bouncing Ball in Terminal",
+      "url": "https://www.youtube.com/watch?v=kLj-H1K317U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Inline Functions in C",
+      "url": "https://www.youtube.com/watch?v=sJuA5OPvABM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Rust",
+      "url": "https://www.youtube.com/watch?v=AJIyRE2vZ_0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Powerful Meta-Programming in C",
+      "url": "https://www.youtube.com/watch?v=G6xxFGxIKAA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Generating C Libraries",
+      "url": "https://www.youtube.com/watch?v=ekMDBusBFx0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Literate Haskell but in C",
+      "url": "https://www.youtube.com/watch?v=sSP42LcI15Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting Go's flag module in C",
+      "url": "https://www.youtube.com/watch?v=mpqaQIrVgew",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "No Garbage Collector",
+      "url": "https://www.youtube.com/watch?v=YMdTxSM00do",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "X11 App in C with Xlib",
+      "url": "https://www.youtube.com/watch?v=764fnfEb1_c",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Profiler for Multi-Threaded Renderer",
+      "url": "https://www.youtube.com/watch?v=kx5_8kbSJtY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Can't solve this in Haskell and even Clojure",
+      "url": "https://www.youtube.com/watch?v=7fylNa2wZaU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Multi-Threaded Tile Renderer in C",
+      "url": "https://www.youtube.com/watch?v=UiaVvVpWY4E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting My Old Pascal Code in C",
+      "url": "https://www.youtube.com/watch?v=_SufQh6OIzs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Nim (Wang Tiles 01)",
+      "url": "https://www.youtube.com/watch?v=IGTuv_KKLFs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "LRU Cache in C Tutorial",
+      "url": "https://www.youtube.com/watch?v=Ud6lzJ_IWIU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Text Editor with OpenGL — Zoom",
+      "url": "https://www.youtube.com/watch?v=rlZ21yofaYk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Mini Excel in C — Part 4 (Finale) — Arithmetic Operations",
+      "url": "https://www.youtube.com/watch?v=vt3kAuu1iOU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Mini Excel in C — Part 3 — Error Reporting",
+      "url": "https://www.youtube.com/watch?v=-bmQfLgiEYA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Mini Excel in C — Part 2 — Memory Management and Cell Cloning",
+      "url": "https://www.youtube.com/watch?v=HWgB-YOlxko",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Mini Excel in C — Part 1",
+      "url": "https://www.youtube.com/watch?v=HCAgvKQDJng",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Program That Rebuilds Itself",
+      "url": "https://www.youtube.com/watch?v=GrG5_U0NHKk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Cursor",
+      "url": "https://www.youtube.com/watch?v=exoC28LWG5E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "this editor is kinda gei ngl",
+      "url": "https://www.youtube.com/watch?v=4DRpgPgzLzY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Function Arguments to My Language",
+      "url": "https://www.youtube.com/watch?v=9hFIfGq8hI8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Text Editor with Shaders",
+      "url": "https://www.youtube.com/watch?v=1vRUzw5YmVY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting Text Editor Renderer in OpenGL",
+      "url": "https://www.youtube.com/watch?v=SmGTKcTzP_w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making My Text Editor Dramatic",
+      "url": "https://www.youtube.com/watch?v=DpJx9tRqS7U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "What should we name our Text Editor?",
+      "url": "https://www.youtube.com/watch?v=LJRafwq6Fdg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Text Editor",
+      "url": "https://www.youtube.com/watch?v=2UY_Am-Q-oI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Including C File Over HTTPS",
+      "url": "https://www.youtube.com/watch?v=4vSyqK3SK-0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Rust Skill Are Growing Stronger",
+      "url": "https://www.youtube.com/watch?v=Uj0CrPM65Rc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Terminal for My Game",
+      "url": "https://www.youtube.com/watch?v=p1A5HdRW5R0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tooltip",
+      "url": "https://www.youtube.com/watch?v=5Z1VwVAlJwQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Local Variables to My Language",
+      "url": "https://www.youtube.com/watch?v=K5KKf3JopSM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing New Programming Language — The Stack",
+      "url": "https://www.youtube.com/watch?v=RTFIasLSBoU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Two Panel Interface in Rust",
+      "url": "https://www.youtube.com/watch?v=Iveh2W3roJk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Terminal To-Do App in Rust",
+      "url": "https://www.youtube.com/watch?v=tR6p7ZC7RaU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Improving Immediate UI for My Game",
+      "url": "https://www.youtube.com/watch?v=-FYKw5rH2aU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Immediate UI for My Game in C++",
+      "url": "https://www.youtube.com/watch?v=8e56I1z9cn4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How to Handle Operator Precedence",
+      "url": "https://www.youtube.com/watch?v=jIxsH3E-Hjg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Switching to TypeScript",
+      "url": "https://www.youtube.com/watch?v=MQB4zabVHZY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Garbage Collector in C",
+      "url": "https://www.youtube.com/watch?v=2JgEKEd3tw8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing My Own Malloc in C",
+      "url": "https://www.youtube.com/watch?v=sZ8GJ1TiMdk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Proof That My Language is Turing Complete",
+      "url": "https://www.youtube.com/watch?v=HqfvWjoyDXs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Adding Raw Pointers to My Language",
+      "url": "https://www.youtube.com/watch?v=d6eUoBQ5sq4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Reimplementing JavaScript in JavaScript for Safer Eval",
+      "url": "https://www.youtube.com/watch?v=Yjgh7bfh2FU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Regex Library in Rust from Scratch (Finite-State Machines)",
+      "url": "https://www.youtube.com/watch?v=MH56D5M9xSQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "what Functions ACTUALLY compile to",
+      "url": "https://www.youtube.com/watch?v=kslvmVyf8f8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "what Loops actually compile to",
+      "url": "https://www.youtube.com/watch?v=K3Gnr2cEX9w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Why do I need Global Variables in My Language?",
+      "url": "https://www.youtube.com/watch?v=sFIh1U1y1xY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "you can't just make websites without React",
+      "url": "https://www.youtube.com/watch?v=mvpbWZLMDM0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Pizza Cursor",
+      "url": "https://www.youtube.com/watch?v=Qn3g5KCkVCg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "why do I have this counter on my screen?",
+      "url": "https://www.youtube.com/watch?v=zsIb2HPvtC4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "program that prints itself",
+      "url": "https://www.youtube.com/watch?v=GhYjEgRZjR8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "what If-Else actually compiles to",
+      "url": "https://www.youtube.com/watch?v=yzVGwZIfKBM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How Programming Language is Parsed",
+      "url": "https://www.youtube.com/watch?v=L6hqn8ElThI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "We Need Better Compiler Errors!",
+      "url": "https://www.youtube.com/watch?v=kuvHRziY-O4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "JavaScript is sus",
+      "url": "https://www.youtube.com/watch?v=tbF3a19mAls",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Regex Madness in Go — Offline Stream #14",
+      "url": "https://www.youtube.com/watch?v=9Ca_eWzTDAs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "When UI Library is Bad — Offline Stream #13",
+      "url": "https://www.youtube.com/watch?v=yUGvLUPtgXY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "2D Game Engine in C++ — Text Rendering — Offline Stream #12",
+      "url": "https://www.youtube.com/watch?v=0iXExZb_pU4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Let's Talk About WebAssembly and WASI",
+      "url": "https://www.youtube.com/watch?v=2qV-1JhxWeE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Own HTTP Client Library — Chunked Encoding — Offline Stream #10",
+      "url": "https://www.youtube.com/watch?v=2DRZCy0-1Zk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "We Need to Bring GUI Libraries Back! — Offline Stream #09",
+      "url": "https://www.youtube.com/watch?v=wWnjffo6gHc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Own Programming Language in 2 Hours — Offline Stream #08",
+      "url": "https://www.youtube.com/watch?v=7a_YKCeMCMA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "How to Work with OpenGL Textures — Offline Stream #07",
+      "url": "https://www.youtube.com/watch?v=56YQI_Kwv64",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Own JavaScript Framework (grecha.js) — Offline Stream #06",
+      "url": "https://www.youtube.com/watch?v=bAn5YmPmtXI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Making a Platformer Game — Offline Stream #05",
+      "url": "https://www.youtube.com/watch?v=rb98WpStYS8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Particle Simulation With OpenGL — Offline Stream #04",
+      "url": "https://www.youtube.com/watch?v=t-e8PBRPL6w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "My Own HTTP Client Library in Pure C — Offline Stream #03",
+      "url": "https://www.youtube.com/watch?v=kMwFyVpLNZw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "OpenGL Text Rendering for My Immediate UI Library — Offline Stream #02",
+      "url": "https://www.youtube.com/watch?v=mq3UXqPmBE8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Offline Stream #01 — Programming Language And Virtual Machine",
+      "url": "https://www.youtube.com/watch?v=9yt7oWciNfM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Doubly-Linked List in Rust",
+      "url": "https://www.youtube.com/watch?v=JtKZGltvUBc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hash Table in Rust",
+      "url": "https://www.youtube.com/watch?v=YBzNFt4wapA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Learning Vulkan with Rust",
+      "url": "https://www.youtube.com/watch?v=8iEN64bj3X4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Inverting File Tree in C++",
+      "url": "https://www.youtube.com/watch?v=weRRlkbw0FE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Rewriting My Game in Rust",
+      "url": "https://www.youtube.com/watch?v=JyDGRI9KjD0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Assembly in C — Day 20",
+      "url": "https://www.youtube.com/watch?v=rFp6ORPIEMY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Wrapping C libraries in Rust",
+      "url": "https://www.youtube.com/watch?v=W0vh5VXqN3A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "3D lighting with OpenGL on Linux",
+      "url": "https://www.youtube.com/watch?v=ZzAYx9h3Qj0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "OpenGL Hot-Reloading",
+      "url": "https://www.youtube.com/watch?v=WpxTWP3v-fQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "OpenGL Perspective Projection",
+      "url": "https://www.youtube.com/watch?v=dPvA3PuK2Y4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "OpenGL 3D Texturing",
+      "url": "https://www.youtube.com/watch?v=eqy3uEX1T3E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "3D in OpenGL",
+      "url": "https://www.youtube.com/watch?v=Om-LVyWEm1k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Assembly in C — Day 19",
+      "url": "https://www.youtube.com/watch?v=L3iHLDfuGZs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 18",
+      "url": "https://www.youtube.com/watch?v=8iHEamIoFeA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Small Demo Game in C++",
+      "url": "https://www.youtube.com/watch?v=rbSw10OPEGw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 17",
+      "url": "https://www.youtube.com/watch?v=zQvZuHZExEY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Compile-Time Expressions — Day 16",
+      "url": "https://www.youtube.com/watch?v=TFBEtx6a_xI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 15",
+      "url": "https://www.youtube.com/watch?v=_Kt3RHo5XvI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 14",
+      "url": "https://www.youtube.com/watch?v=iXTtIIwbcPI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Learning WebGL",
+      "url": "https://www.youtube.com/watch?v=L0j--ehMfqE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Simulating Computer — Cellular Automata — Day 4",
+      "url": "https://www.youtube.com/watch?v=hVQqePQSBRI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Recovered After I Crashed My System — Cellular Automata — Day 3 — Part 2",
+      "url": "https://www.youtube.com/watch?v=fRqMsVeW72k",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This Code Crashed My System — Cellular Automata — Day 3 — Part 1",
+      "url": "https://www.youtube.com/watch?v=Ry7LxQ0s3m4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Cellular Automata — Part 2",
+      "url": "https://www.youtube.com/watch?v=5Ks-HRrHBbw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Cellular Automata — Part 1",
+      "url": "https://www.youtube.com/watch?v=z9y1SDjl0YQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Build System in C — Part 4 — Pipes",
+      "url": "https://www.youtube.com/watch?v=NtEZ9MkxYlk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Build System in C — Part 3",
+      "url": "https://www.youtube.com/watch?v=DaNn7yKogIY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Learning JavaScript — Part 2",
+      "url": "https://www.youtube.com/watch?v=J5-VvGo4QqY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Learning JavaScript — Part 1",
+      "url": "https://www.youtube.com/watch?v=o3apbMOfdTI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2019 in Haskell — Days 11 and 12.5",
+      "url": "https://www.youtube.com/watch?v=s_YZsDikLfE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "New Build System in C — Part 2",
+      "url": "https://www.youtube.com/watch?v=Op7hStXud4s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "New Build System in C — Part 1",
+      "url": "https://www.youtube.com/watch?v=n47AFxc1ksE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine and Assembly in C — Day 13",
+      "url": "https://www.youtube.com/watch?v=4ZuavBGRwtc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "[24-01-2021] Game Development in C++",
+      "url": "https://www.youtube.com/watch?v=sjZI_lzFZac",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "[23-01-2021] Game Development in C/C++",
+      "url": "https://www.youtube.com/watch?v=kdD9sE_1YrE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game of Life in Ada",
+      "url": "https://www.youtube.com/watch?v=qJAuyoDt03A",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "AoC 2019 in Haskell — Day 10 — Post-Mortem",
+      "url": "https://www.youtube.com/watch?v=K242-Hh_I8w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Checking out Raylib — Part 2 — 3D Game Development",
+      "url": "https://www.youtube.com/watch?v=QqravLVpoI8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 12",
+      "url": "https://www.youtube.com/watch?v=ja1NyFxaz2w",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 11",
+      "url": "https://www.youtube.com/watch?v=-4l9XAgSm24",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 10",
+      "url": "https://www.youtube.com/watch?v=sbRLzFIHDsM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Checking out raylib",
+      "url": "https://www.youtube.com/watch?v=fHojJ9Nxb0E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game Programming in C/C++",
+      "url": "https://www.youtube.com/watch?v=gtk2gBOXsNs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Crystal Programming Language",
+      "url": "https://www.youtube.com/watch?v=nicCW5lFxDU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2019 in Haskell — Days 7, 8, 9 — Source Code: https://github.com/tsoding/aoc-2019",
+      "url": "https://www.youtube.com/watch?v=AxxugfftIeY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Assembly — Virtual Machine in C — Day 9",
+      "url": "https://www.youtube.com/watch?v=LOkQz_V2WN0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Generating x86_64 Assembly — Virtual Machine in C — Day 8",
+      "url": "https://www.youtube.com/watch?v=3rfxiuhPtPE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Virtual Machine in C — Day 7",
+      "url": "https://www.youtube.com/watch?v=D2eeqV6VlPQ",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Ada — Part 2",
+      "url": "https://www.youtube.com/watch?v=-wbMVnkCgOk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Programming in Ada — Part 1",
+      "url": "https://www.youtube.com/watch?v=ljeYMzDThMY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2019 in Haskell (First Try Edition) — Day 4, 5, 6",
+      "url": "https://www.youtube.com/watch?v=Gynv6lAT8Qo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Virtual Machine in C — Day 6",
+      "url": "https://www.youtube.com/watch?v=cBZgWLJ9EhA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Virtual Machine in C — Day 5",
+      "url": "https://www.youtube.com/watch?v=k6qk6lT4S3U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing Virtual Machine in C — Day 4",
+      "url": "https://www.youtube.com/watch?v=X7bSMKUgKVc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "This is Just C++ GameDev",
+      "url": "https://www.youtube.com/watch?v=BeHO-I0j4lg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Bézier Curves using OpenGL Fragment Shader — Day 2",
+      "url": "https://www.youtube.com/watch?v=m4gVWZ_OkG4",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Coding Bézier Curves — Day 1",
+      "url": "https://www.youtube.com/watch?v=2oKzBq43ShE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2019 in Haskell — Day 1, 2, 3",
+      "url": "https://www.youtube.com/watch?v=TvggHBRaGqs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing VM for my Lisp in C — Day 3",
+      "url": "https://www.youtube.com/watch?v=LN9vrbBNG64",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing VM for my Lisp in C — Day 2",
+      "url": "https://www.youtube.com/watch?v=9td67NTtNCg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Writing VM for my Lisp in C — Day 1",
+      "url": "https://www.youtube.com/watch?v=0irYsCYuZws",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "GameDev in C++ with SDL2 on Linux",
+      "url": "https://www.youtube.com/watch?v=oUhmRDaUE78",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 25 in Assembly (The Final Boss)",
+      "url": "https://www.youtube.com/watch?v=6m7PSAkbelE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code — Day 24 in Ada",
+      "url": "https://www.youtube.com/watch?v=5ChNYG81tS0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code — Day 23 in Dart",
+      "url": "https://www.youtube.com/watch?v=p_wl80ugHSc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code — Day 22 in Groovy",
+      "url": "https://www.youtube.com/watch?v=mq3ZIGRgZOA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code — Day 21 in Racket",
+      "url": "https://www.youtube.com/watch?v=tP98VjF9Ljo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 20 in Julia",
+      "url": "https://www.youtube.com/watch?v=vvvO8QQtW7Q",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 19 in Lua",
+      "url": "https://www.youtube.com/watch?v=6lFNgR5DkFg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 18 in Kotlin",
+      "url": "https://www.youtube.com/watch?v=gGDuoey_TnE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 17 in Scala — Spam Filter in Haskell Later",
+      "url": "https://www.youtube.com/watch?v=rKPG4bGQLGk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 16 in Ruby",
+      "url": "https://www.youtube.com/watch?v=xb-yZhokKSw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 15 in Pascal — C++ Programming Later",
+      "url": "https://www.youtube.com/watch?v=ech9Re2bi_E",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 14 in PHP",
+      "url": "https://www.youtube.com/watch?v=95ooXiwVeMM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "C# on Linux — Advent of Code 2020 Day 13",
+      "url": "https://www.youtube.com/watch?v=i2bya8kNXjw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 12 in Perl — GameDev in C++ Later",
+      "url": "https://www.youtube.com/watch?v=R00JE6QRbno",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 10 and 11 in C and Nim",
+      "url": "https://www.youtube.com/watch?v=lHzbWWjdloM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Spam Filter in Haskell",
+      "url": "https://www.youtube.com/watch?v=s74qbeeBb9U",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 — Day 9 in OCaml",
+      "url": "https://www.youtube.com/watch?v=a8vogmPtlXE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 Day 8 in JavaScript — TUI framework in Rust later",
+      "url": "https://www.youtube.com/watch?v=8aYjw62hxTY",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 Day 7 in Go — TUI framework in Rust Later",
+      "url": "https://www.youtube.com/watch?v=FXPmwFubyDE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 Days 5 and 6 in C++ and Python — Lisp Interpreter in C Later",
+      "url": "https://www.youtube.com/watch?v=vVjNyY2jkqg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 in D",
+      "url": "https://www.youtube.com/watch?v=cvvNfuS4BwI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 in Java — Game Development in C++ Later",
+      "url": "https://www.youtube.com/watch?v=mlth0Bn18Vs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "KeyLogger for Linux (educational)",
+      "url": "https://www.youtube.com/watch?v=DDnylUPL_pc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 in Haskell + Code Review",
+      "url": "https://www.youtube.com/watch?v=C_P_KVsXeVk",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Advent of Code 2020 in Rust",
+      "url": "https://www.youtube.com/watch?v=uodcgWA8trs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "TUI framework in Rust",
+      "url": "https://www.youtube.com/watch?v=PQFJZZKAj1s",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "GameDev in C++ — Stomping Attack",
+      "url": "https://www.youtube.com/watch?v=VqZzuUpFiUI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Birthday Stream — Finally a 30yo C++ Cooder",
+      "url": "https://www.youtube.com/watch?v=MSB7p-Ed_oM",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Time Displacement in Rust",
+      "url": "https://www.youtube.com/watch?v=wbjF5AlfNM0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Trying Kotlin for the First Time",
+      "url": "https://www.youtube.com/watch?v=Q4VWCOgk6wc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Hash Table in C++",
+      "url": "https://www.youtube.com/watch?v=e9aJ9en31oI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "TUI Rust Framework",
+      "url": "https://www.youtube.com/watch?v=XBK1ob6kgo0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "IRC client in OCaml",
+      "url": "https://www.youtube.com/watch?v=ziXgdkTfmPU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game Development from Scratch in C++ and SDL Ep.N+6",
+      "url": "https://www.youtube.com/watch?v=IIq_YvauxRo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game Development from Scratch in C++ and SDL Ep.N+5",
+      "url": "https://www.youtube.com/watch?v=3iDCA1_k1q8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Fast Parser Combinator Library from Scratch in OCaml (no dependencies)",
+      "url": "https://www.youtube.com/watch?v=Y5IIXUBXvLs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Visual Chat Generator Programming",
+      "url": "https://www.youtube.com/watch?v=TXbRQU8fgOc",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "GUI framework in Rust — Part 3",
+      "url": "https://www.youtube.com/watch?v=AiElX4Y8M-8",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Code Review",
+      "url": "https://www.youtube.com/watch?v=BE9-brTTSOs",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game Development in C++ from Scratch Ep.N+4",
+      "url": "https://www.youtube.com/watch?v=HzDQYr-jHoI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Game Development in C++ from Scratch Ep.N+3",
+      "url": "https://www.youtube.com/watch?v=bfrk1sPDn0g",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Genetic Programming in C — Part 4",
+      "url": "https://www.youtube.com/watch?v=7ypy9Q0Jmag",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding | Text to Video Renderer in C++ Ep.N+2",
+      "url": "https://www.youtube.com/watch?v=ODFB68nYIn0",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding | Custom TUI Framework in Rust Ep.02",
+      "url": "https://www.youtube.com/watch?v=4l2HpNf6YZg",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Genetic Programming in C — Part 3",
+      "url": "https://www.youtube.com/watch?v=glGbw50Vn_g",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | GameDev in C++ from Scratch Ep.N+2",
+      "url": "https://www.youtube.com/watch?v=YL-UeqCT83Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Genetic Programming in C — Part 2",
+      "url": "https://www.youtube.com/watch?v=2YSztlmgpks",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Genetic Programming in C — Part 1",
+      "url": "https://www.youtube.com/watch?v=iL--xqGgd0g",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | Checking out HarfBuzz | Text to Video Renderer in C++ Ep.N+1",
+      "url": "https://www.youtube.com/watch?v=d9gDx35TdNI",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | Custom TUI Framework in Rust | cm development Ep. N+1",
+      "url": "https://www.youtube.com/watch?v=oWB666_8lKo",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | Programming Turing Machine in D | Friday One-Off Stream",
+      "url": "https://www.youtube.com/watch?v=aKiuNhNjrgA",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | Code Review and Haskell Later | Monday Stream",
+      "url": "https://www.youtube.com/watch?v=y5Fs9nOmFqE",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Tsoding on Twitch | GameDev in C++ from Scratch Ep.N+1",
+      "url": "https://www.youtube.com/watch?v=LyJkcv_rL9Y",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "Schools Don't Test Intelligence",
+      "url": "https://www.youtube.com/shorts/6Ptopme84Vw",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "One Thing Every Programmer Must Have",
+      "url": "https://www.youtube.com/shorts/GObdGWzbqao",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    },
+    {
+      "videotitle": "JavaScript vs C",
+      "url": "https://www.youtube.com/shorts/1E74_0MSKNU",
+      "languages": [],
+      "project": "",
+      "tags": [],
+      "minitags": [],
+      "timestamps": []
+    }
+  ]
+}
