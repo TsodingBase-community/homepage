@@ -3,863 +3,511 @@
     {
       "videotitle": "Making Memory Safer in my C",
       "url": "https://www.youtube.com/watch?v=jwb7SmyGr3A",
-      "languages": [
-        "C3",
-        "C"
-      ],
-      "project": "websockets for C3",
-      "tags": [
-        "websockets",
-        "networking",
-        "coroutines"
-      ],
+      "languages": ["C" ],
+      "project": "coroutines",
+      "tags": ["coroutines", "low level", "nerdy", "syscall"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "My Journey is Finally Over - I know Network Programming",
       "url": "https://www.youtube.com/watch?v=jwb7SmyGr3A",
-      "languages": [
-        "C3",
-        "C"
-      ],
+      "languages": [ "C3", "C" ],
       "project": "websockets for C3",
-      "tags": [
-        "websockets",
-        "networking",
-        "coroutines"
-      ],
+      "tags": [ "websockets", "networking", "coroutines" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I tried Ninja Build Tool and it changed me...",
       "url": "https://www.youtube.com/watch?v=Z8znH5Grz7I",
-      "languages": [
-        "ninja",
-        "bash",
-        "Makefile"
-      ],
+      "languages": [ "ninja", "bash", "Makefile" ],
       "project": "none",
-      "tags": [
-        "building",
-        "tools"
-      ],
+      "tags": [ "building", "tools" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I switched from ASSEMBLY to C and it made my code better...",
       "url": "https://www.youtube.com/watch?v=6WhEZ0ruzVU",
-      "languages": [
-        "C",
-        "fasm"
-      ],
+      "languages": [ "C", "fasm" ],
       "project": "coroutines",
-      "tags": [
-        "coroutines",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "coroutines", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Compiling Should NOT be This Slow",
       "url": "https://www.youtube.com/watch?v=aKk_r9ZwXQw",
-      "languages": [
-        "C",
-        "Tilde"
-      ],
+      "languages": [ "C", "Tilde" ],
       "project": "none",
-      "tags": [
-        "compilers",
-        "languages"
-      ],
+      "tags": [ "compilers", "languages" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "The Jai situation is insane!",
       "url": "https://www.youtube.com/watch?v=jda3wgZxlgA",
-      "languages": [
-        "Jai"
-      ],
+      "languages": [ "Jai" ],
       "project": "jaibreak",
-      "tags": [
-        "wasm",
-        "porting",
-        "web"
-      ],
+      "tags": [ "wasm", "porting", "web" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I made Coroutines from scratch",
       "url": "https://www.youtube.com/watch?v=sYSP_elDdZw",
-      "languages": [
-        "fasm",
-        "C"
-      ],
+      "languages": [ "fasm", "C" ],
       "project": "none",
-      "tags": [
-        "coroutines",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "coroutines", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Forget C - Assembly is All You Need",
       "url": "https://www.youtube.com/watch?v=hzjBdIJ9Ycs",
-      "languages": [
-        "fasm"
-      ],
+      "languages": [ "fasm" ],
       "project": "none",
-      "tags": [
-        "coroutines",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "coroutines", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "This Library Turns C into Go",
       "url": "https://www.youtube.com/watch?v=z1joHmzpoAc",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "concurrency",
-        "async",
-        "libmill",
-        "new library"
-      ],
+      "tags": [ "concurrency", "async", "libmill", "new library" ],
       "minitags": [],
-      "timestamps": [
-        {
-          "tag": "last good year",
-          "time": "00:01:45.00",
-          "end_time": "00:02:08.00"
-        }
-      ]
+      "timestamps": [ { "tag": "last good year", "time": "00:01:45.00", "end_time": "00:02:08.00" } ]
     },
     {
       "videotitle": "What do you need select/poll/epoll for",
       "url": "https://www.youtube.com/watch?v=eEHqCZpYtOE",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "futures in C3",
-      "tags": [
-        "networking",
-        "async",
-        "optimization",
-        "low level",
-        "nerdy"
-      ],
+      "tags": [ "networking", "async", "optimization", "low level", "nerdy" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Async vs Multithreading",
       "url": "https://www.youtube.com/watch?v=IGv5WYYmyfo",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "futures in C3",
-      "tags": [
-        "async",
-        "futures",
-        "networking",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "async", "futures", "networking", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Creator of C3 improves the Lang Live as I use it",
       "url": "https://www.youtube.com/watch?v=7z7tdqxn3m4",
-      "languages": [
-        "C3",
-        "C"
-      ],
+      "languages": [ "C3", "C" ],
       "project": "futures in C3",
-      "tags": [
-        "futures",
-        "porting",
-        "panim"
-      ],
+      "tags": [ "futures", "porting", "panim"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I made Futures from scratch",
       "url": "https://www.youtube.com/watch?v=sNHzizPu7yQ",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "futures in C3",
-      "tags": [
-        "futures",
-        "async"
-      ],
+      "tags": [ "futures", "async" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Prequel to C3 nobody expected",
       "url": "https://www.youtube.com/watch?v=WpepPeOl3DI",
-      "languages": [
-        "C2"
-      ],
+      "languages": [ "C2" ],
       "project": "",
-      "tags": [
-        "new language",
-        "sdl"
-      ],
+      "tags": [ "new language", "sdl" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "You Don't Need Text Editor - Just Use My ChatBot",
       "url": "https://www.youtube.com/watch?v=D7iQ7LvI4vg",
-      "languages": [
-        "Go"
-      ],
+      "languages": [ "Go" ],
       "project": "Gatekeeper",
-      "tags": [
-        "bot",
-        "editor"
-      ],
+      "tags": [ "bot", "editor" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Is Jai Ready for Production?",
       "url": "https://www.youtube.com/watch?v=Gfx7e8WQKCk",
-      "languages": [
-        "Jai"
-      ],
+      "languages": [ "Jai" ],
       "project": "infinite pong",
-      "tags": [
-        "web???"
-      ],
+      "tags": [ "web???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Is SDL3 Ready For Production?",
       "url": "https://www.youtube.com/watch?v=PuE98lipGU8",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "library",
-        "sdl"
-      ],
+      "tags": [ "library", "sdl" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "You Don't Know Network Programming",
       "url": "https://www.youtube.com/watch?v=JRTLSxGf_6w",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "networking",
-        "tcp???",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "networking", "tcp???", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "WebSocket Protocol is Bonkers!!",
       "url": "https://www.youtube.com/watch?v=iQRfzQQrHfo",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "websockets for C3",
-      "tags": [
-        "networking",
-        "websockets",
-        "nerdy",
-        "low level"
-      ],
+      "tags": [ "networking", "websockets", "nerdy", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "This Release is Crazy!!",
       "url": "https://www.youtube.com/watch?v=7ZJ9pJJnxfI",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "library",
-        "raylib"
-      ],
+      "tags": [ "library", "raylib" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "This Library Make Parsing in C Easier",
       "url": "https://www.youtube.com/watch?v=pdsq1YeHLuQ",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "random art",
-      "tags": [
-        "parsers"
-      ],
+      "tags": [ "parsers" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Generative Shaders",
       "url": "https://www.youtube.com/watch?v=JaG4kdyS_I8",
-      "languages": [
-        "C",
-        "shader"
-      ],
+      "languages": [ "C", "shader" ],
       "project": "random art",
-      "tags": [
-        "raylib",
-        "shaders"
-      ],
+      "tags": [ "raylib", "shaders" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Server-Side Rendering in C",
       "url": "https://www.youtube.com/watch?v=dkNv3KGOFT0",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "Tore",
-      "tags": [
-        "templates",
-        "web"
-      ],
+      "tags": [ "templates", "web" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Implementing Scientific Paper in C",
       "url": "https://www.youtube.com/watch?v=3D_h2RE0o0E",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "random art",
-      "tags": [
-        "???"
-      ],
+      "tags": [ "???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Stress Testing WebSocket Implementation",
       "url": "https://www.youtube.com/watch?v=QdmwBFSlnOE",
-      "languages": [
-        "C3",
-        "python"
-      ],
+      "languages": [ "C3", "python" ],
       "project": "websockets for C3",
-      "tags": [
-        "tools",
-        "autoban",
-        "networking",
-        "websockets"
-      ],
+      "tags": [ "tools", "autoban", "networking", "websockets" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "WebSocket Server from Zero by Specs",
       "url": "https://www.youtube.com/watch?v=yrzv6o9Pnao",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "websockets for C3",
-      "tags": [
-        "networking",
-        "websockets"
-      ],
+      "tags": [ "networking", "websockets" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "They made Python in Python",
       "url": "https://www.youtube.com/watch?v=p8fCq16XTH4",
-      "languages": [
-        "Python"
-      ],
+      "languages": [ "Python" ],
       "project": "none",
-      "tags": [
-        "tools",
-        "pypy",
-        "rpython"
-      ],
+      "tags": [ "tools", "pypy", "rpython" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I couldn't find a WebSockets Library so I made one",
       "url": "https://www.youtube.com/watch?v=-PfG87485Po",
-      "languages": [
-        "C3",
-        "C"
-      ],
+      "languages": [ "C3", "C" ],
       "project": "websockets for C3",
-      "tags": [
-        "websockets",
-        "networking",
-        "nerdy"
-      ],
+      "tags": [ "websockets", "networking", "nerdy" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "The Web Does No Innovation",
       "url": "https://www.youtube.com/watch?v=TQFkpuCCNos",
-      "languages": [
-        "TS",
-        "html"
-      ],
+      "languages": [ "TS", "html" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "audio",
-        "low level"
-      ],
+      "tags": [ "web", "audio", "low level" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I Hacked C3 Compiler for This",
       "url": "https://www.youtube.com/watch?v=01umadKzpvs",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "Koil",
-      "tags": [
-        "gamedev",
-        "web"
-      ],
+      "tags": [ "gamedev", "web" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Hacking GNU utilities - m4",
       "url": "https://www.youtube.com/watch?v=h164R46NWBM",
-      "languages": [
-        "m4",
-        "C"
-      ],
+      "languages": [ "m4", "C" ],
       "project": "none",
-      "tags": [
-        "tools",
-        "m4",
-        "raylib speedrun"
-      ],
+      "tags": [ "tools", "m4", "raylib speedrun" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Back-face Culling in C on Linux",
       "url": "https://www.youtube.com/watch?v=nIaVx-4UGUU",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "olive.c",
-      "tags": [
-        "3d",
-        "graphics",
-        "library",
-        "olive.c"
-      ],
+      "tags": [ "3d", "graphics", "library", "olive.c" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Configuring Emacs on My New Laptop",
       "url": "https://www.youtube.com/watch?v=81MdyDYqB-A",
-      "languages": [
-        "elisp",
-        "lisp",
-        "english"
-      ],
+      "languages": [ "elisp", "lisp", "english" ],
       "project": "none",
-      "tags": [
-        "configuring",
-        "talk"
-      ],
+      "tags": [ "configuring", "talk" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "This Library Turned my C into JavaScript wtf",
       "url": "https://www.youtube.com/watch?v=SbpusG7sHF4",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "new library",
-        "chello",
-        "???"
-      ],
+      "tags": [ "new library", "chello", "???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Using Breadth-first Search to Analyse 3D Mesh Components",
       "url": "https://www.youtube.com/watch?v=V4Pd-aoaAOs",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "olive.c",
-      "tags": [
-        "3d",
-        "graphics",
-        "library",
-        "olive.c"
-      ],
+      "tags": [ "3d", "graphics", "library", "olive.c" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Parsing 3D File in C",
       "url": "https://www.youtube.com/watch?v=IPEzHuSvPDA",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "olive.c",
-      "tags": [
-        "3d",
-        "graphics",
-        "library",
-        "olive.c"
-      ],
+      "tags": [ "3d", "graphics", "library", "olive.c" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "BASIC in 2024 has Potential",
       "url": "https://www.youtube.com/watch?v=7_EV22SpDY4",
-      "languages": [
-        "BASIC"
-      ],
+      "languages": [ "BASIC" ],
       "project": "none",
-      "tags": [
-        "new language",
-        "raylib speedrun",
-        "fractals"
-      ],
+      "tags": [ "new language", "raylib speedrun", "fractals" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I Don't Need No Silly Frameworks You Can't Live Without",
       "url": "https://www.youtube.com/watch?v=H-GO_bVUzCQ",
-      "languages": [
-        "C3",
-        "TS"
-      ],
+      "languages": [ "C3", "TS" ],
       "project": "Koil",
-      "tags": [
-        "gamedev",
-        "web"
-      ],
+      "tags": [ "gamedev", "web" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I tried Swift and came out a different person",
       "url": "https://www.youtube.com/watch?v=LTP5c4NqA8k",
-      "languages": [
-        "swift"
-      ],
+      "languages": [ "swift" ],
       "project": "none",
-      "tags": [
-        "new language"
-      ],
+      "tags": [ "new language" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "WASM on Backend is the Future",
       "url": "https://www.youtube.com/watch?v=sXeB46d_7_w",
-      "languages": [
-        "C3",
-        "TS"
-      ],
+      "languages": [ "C3", "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev"
-      ],
+      "tags": [ "web", "gamedev" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Everyone Should Use WebAssembly",
       "url": "https://www.youtube.com/watch?v=sLWkUzbMhIU",
-      "languages": [
-        "C3",
-        "TS"
-      ],
+      "languages": [ "C3", "TS" ],
       "project": "Koil",
-      "tags": [
-        "gamedev",
-        "web",
-        "wasm",
-        "porting"
-      ],
+      "tags": [ "gamedev", "web", "wasm", "porting" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Breeding Words with C3 Language",
       "url": "https://www.youtube.com/watch?v=_rrL20htMAM",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "none",
-      "tags": [
-        "generating",
-        "fun",
-        "???"
-      ],
+      "tags": [ "generating", "fun", "???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Should've NOT Added Bombs to This Game 💀",
       "url": "https://www.youtube.com/watch?v=ecX4olnWCLM",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "gamedev",
-        "web",
-        "online"
-      ],
+      "tags": [ "gamedev", "web", "online" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I Wrote Superhuman Code By Hands",
       "url": "https://www.youtube.com/watch?v=6DEr82sj4zM",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "none",
-      "tags": [
-        "nerdy",
-        "wtf"
-      ],
+      "tags": [ "nerdy", "wtf" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "No Lag, First Try, Over 100 Players in a Single Place",
       "url": "https://www.youtube.com/watch?v=JjN0KL-rAdA",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "online"
-      ],
+      "tags": [ "web", "gamedev", "online" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "How tf Doom Even Did That?!",
       "url": "https://www.youtube.com/watch?v=Bjcu3P74J2o",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "graphics",
-        "raycasting"
-      ],
+      "tags": [ "web", "gamedev", "graphics", "raycasting" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Programming w/o Language",
       "url": "https://www.youtube.com/watch?v=rzXEsactdT4",
-      "languages": [
-        "llvm"
-      ],
+      "languages": [ "llvm" ],
       "project": "none",
-      "tags": [
-        "nerdy",
-        "low level",
-        "raylib speedrun",
-        "llvm"
-      ],
+      "tags": [ "nerdy", "low level", "raylib speedrun", "llvm" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I contributed to C3 Compiler and So Can You",
       "url": "https://www.youtube.com/watch?v=MqThCOjL-IM",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "nerdy",
-        "compilers"
-      ],
+      "tags": [ "nerdy", "compilers" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Programming in C3 to Annoy Zig fans",
       "url": "https://www.youtube.com/watch?v=zRUg7X-c4bk",
-      "languages": [
-        "C3",
-        "JS"
-      ],
+      "languages": [ "C3", "JS" ],
       "project": "none",
-      "tags": [
-        "web",
-        "wasm",
-        "zozlib.js"
-      ],
+      "tags": [ "web", "wasm", "zozlib.js" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "They Made a Sequel to C",
       "url": "https://www.youtube.com/watch?v=Qzw1m7PweXs",
-      "languages": [
-        "C3"
-      ],
+      "languages": [ "C3" ],
       "project": "none",
-      "tags": [
-        "new language",
-        "raylib speedrun"
-      ],
+      "tags": [ "new language", "raylib speedrun" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "High Load without C/C++ (Only JavaScript)",
       "url": "https://www.youtube.com/watch?v=o6Capa_V5QE",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "online",
-        "gamedev"
-      ],
+      "tags": [ "web", "online", "gamedev" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "C is Dead. JavaScript will replace it.",
       "url": "https://www.youtube.com/watch?v=2l6Rl09NyTw",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "online",
-        "gamedev"
-      ],
+      "tags": [ "web", "online", "gamedev" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Coding an Army of Bots",
       "url": "https://www.youtube.com/watch?v=MeaTJSb6KWI",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "online",
-        "gamedev"
-      ],
+      "tags": [ "web", "online", "gamedev" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "How to Make Multiplayer Online Games",
       "url": "https://www.youtube.com/watch?v=Ih9OkNeg7v8",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "online",
-        "gamedev"
-      ],
+      "tags": [ "web", "online", "gamedev" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Squeezing Max Performance out of JavaScript",
       "url": "https://www.youtube.com/watch?v=meiOJgnKgTs",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "???"
-      ],
+      "tags": [ "web", "gamedev", "???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "My Retro 3D Engine is Ready",
       "url": "https://www.youtube.com/watch?v=BZeZeikPk5o",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "raycasting"
-      ],
+      "tags": [ "web", "gamedev", "raycasting" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Screw Vite! I'm Rolling out My Own Hot-Reloading!",
       "url": "https://www.youtube.com/watch?v=96JvriLR4s8",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
       "tags": [],
       "minitags": [],
@@ -868,155 +516,90 @@
     {
       "videotitle": "Secret to Fast JS Canvas",
       "url": "https://www.youtube.com/watch?v=cjgaNzywZtQ",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "raycasting",
-        "optimization"
-      ],
+      "tags": [ "web", "gamedev", "raycasting", "optimization" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Almost Died from Heat Stroke but Figured out How Doom Renders Floors After 3 Days",
       "url": "https://www.youtube.com/watch?v=MpfKdyMGPRA",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "raycasting"
-      ],
+      "tags": [ "web", "gamedev", "raycasting" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "TypeScript is better than C for this",
       "url": "https://www.youtube.com/watch?v=5al811UBRRc",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "raycastingv"
-      ],
+      "tags": [ "web", "gamedev", "raycastingv" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "3D in TypeScript using Ray Casting",
       "url": "https://www.youtube.com/watch?v=K1xEkA46CuM",
-      "languages": [
-        "TS"
-      ],
+      "languages": [ "TS" ],
       "project": "Koil",
-      "tags": [
-        "web",
-        "gamedev",
-        "raycastingv"
-      ],
+      "tags": [ "web", "gamedev", "raycasting" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Ok, but can you do this in C?",
       "url": "https://www.youtube.com/watch?v=plFwBqBYpcY",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "code obfuscation",
-        "quine",
-        "nerdy"
-      ],
+      "tags": [ "code obfuscation", "quine", "nerdy" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Hacking Raylib",
       "url": "https://www.youtube.com/watch?v=mAwX7FEOpPA",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "musializer",
-      "tags": [
-        "raylib",
-        "contribution",
-        "audio"
-      ],
+      "tags": [ "raylib", "contribution", "audio", "foreign codebase"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Cracking Secret Message with C and Computer Vision",
       "url": "https://www.youtube.com/watch?v=8vRuUFMXUdY",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "secret",
-      "tags": [
-        "image processing",
-        "???"
-      ],
+      "tags": [ "image processing", "???" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Test Anything with Python",
       "url": "https://www.youtube.com/watch?v=32a52fOBDQY",
-      "languages": [
-        "Python"
-      ],
+      "languages": [ "Python" ],
       "project": "rere.py",
-      "tags": [
-        "testing",
-        "tools",
-        "???"
-      ],
+      "tags": [ "testing", "tools", "???" ],
       "minitags": [],
-      "timestamps": [
-        {
-          "tag": "Guido van Rossum left",
-          "time": "00:27:26.00",
-          "end_time": "00:27:32.00"
-        }
-      ]
+      "timestamps": [ { "tag": "Guido van Rossum left", "time": "00:27:26.00", "end_time": "00:27:32.00" } ]
     },
     {
       "videotitle": "Can you actually see more than 30 FPS?",
       "url": "https://www.youtube.com/watch?v=pnhJ5SDZpGU",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "graphics",
-        "raylib"
-      ],
+      "tags": [ "graphics", "raylib" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Why do C Programmers Always Obfuscate Their Code?",
       "url": "https://www.youtube.com/watch?v=fJbAiXIum0k",
-      "languages": [
-        "C"
-      ],
+      "languages": [ "C" ],
       "project": "none",
-      "tags": [
-        "code obfuscation",
-        "quine",
-        "nerdy"
-      ],
+      "tags": [ "code obfuscation", "quine", "nerdy" ],
       "minitags": [],
       "timestamps": []
     },
@@ -1027,9 +610,7 @@
         "C++"
       ],
       "project": "none",
-      "tags": [
-        "new OS"
-      ],
+      "tags": [ "new OS" ],
       "minitags": [],
       "timestamps": []
     },
@@ -1040,11 +621,7 @@
         "C"
       ],
       "project": "none",
-      "tags": [
-        "math",
-        "nerdy",
-        "???"
-      ],
+      "tags": [ "math", "nerdy", "???" ],
       "minitags": [],
       "timestamps": []
     },
@@ -1055,63 +632,63 @@
         "C"
       ],
       "project": "panim",
-      "tags": [
-        ""
-      ],
+      "tags": [ "animation", "math", "lerp", "???", "raylib" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Is C++ better than C?",
       "url": "https://www.youtube.com/watch?v=E_yI_AtAvB8",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": [
+        "C++"
+      ],
+      "project": "panim",
+      "tags": [ "animation", "virtual table", "raylib" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "OOP in Pure C",
       "url": "https://www.youtube.com/watch?v=6Riy9hVIFDE",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "panim",
+      "tags": [ "animation", "virtual table", "raylib" ],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Async Engine in C",
       "url": "https://www.youtube.com/watch?v=Q65zhKkynDk",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "panim",
+      "tags": [ "async", "raylib", "???"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Is John Carmack Right about UI?!",
       "url": "https://www.youtube.com/watch?v=p_5DQDeyujk",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "musializer",
+      "tags": ["UI", "raylib"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Programming Audio is Dangerous for Your Hearing!",
       "url": "https://www.youtube.com/watch?v=b7UR-31X6Jw",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "panim",
+      "tags": ["audio", "IPC", "ffmpeg", "raylib"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I hope FFmpeg's Twitter won't Cancel me for This...",
       "url": "https://www.youtube.com/watch?v=nL1l_n7wfPo",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "panim",
+      "tags": ["animation", "IPC", "ffmpeg", "raylib"],
       "minitags": [],
       "timestamps": []
     },
@@ -1119,224 +696,224 @@
       "videotitle": "My Own 3b1b Animation Engine but in C",
       "url": "https://www.youtube.com/watch?v=RVwuYgXNUCM",
       "languages": [],
-      "project": "",
-      "tags": [],
+      "project": "panim",
+      "tags": ["animation", "raylib"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Parsing Lisp with Rust (Tula Ep.03)",
       "url": "https://www.youtube.com/watch?v=3jxCDCiozAU",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["Rust", "tula"],
+      "project": "tula",
+      "tags": ["language", "parsers", "turing machine", "turnig"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Esoteric Language Development (Tula Ep.02)",
       "url": "https://www.youtube.com/watch?v=YVzgxRZkbco",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["Rust", "tula"],
+      "project": "tula",
+      "tags": ["language", "parsers", "turing machine", "turnig"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "My Next Video Project (Tula Ep.01)",
       "url": "https://www.youtube.com/watch?v=_n1JhruV3bY",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["Rust", "tula"],
+      "project": "tula",
+      "tags": ["language", "parsers", "turing machine", "turnig"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I dramatically sped up my code",
       "url": "https://www.youtube.com/watch?v=tH-1GiqdHx0",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "seam carving",
+      "tags": ["image processing", "optimization"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Content Aware Scaling in C",
       "url": "https://www.youtube.com/watch?v=zrduCu8LYUM",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "seam carving",
+      "tags": ["image processing", "???"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I made a Russian Programming Language",
       "url": "https://www.youtube.com/watch?v=f4EOMbmIqqw",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["хуя", "russian"],
+      "project": "хуя",
+      "tags": ["new language", "raylib speedrun"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Eepers Gameplay Trailer",
       "url": "https://www.youtube.com/watch?v=4JEbetrkJUs",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["none"],
+      "project": "none",
+      "tags": ["none"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I spent 2 days implementing Game of Life in Uxn",
       "url": "https://www.youtube.com/watch?v=rTb6NFKUmQU",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["uxn"],
+      "project": "none",
+      "tags": ["nerdy", "low level", "uxn", "virtual machine", "game of life"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "The Most Bizarre and Fascinating Project I've seen!",
       "url": "https://www.youtube.com/watch?v=d41KIL4cjQM",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["uxn"],
+      "project": "none",
+      "tags": ["virtual machine", "nerdy", "new language", "uxn"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Control Your Dependencies",
       "url": "https://www.youtube.com/watch?v=A_g6jfLx3ws",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "musializer",
+      "tags": ["audio", "raylib", "miniaudio"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Reviewing Your Pull Requests",
       "url": "https://www.youtube.com/watch?v=F4xc4jQO7ck",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["JS", "C"],
+      "project": "zozlib.js",
+      "tags": ["web", "raylib", "code review"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Hiding Data Inside of Executable Files",
       "url": "https://www.youtube.com/watch?v=dZRPY0D9nbU",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "musializer",
+      "tags": ["raylib"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Is this the Future of Programming Languages?",
       "url": "https://www.youtube.com/watch?v=JTjNoejn4iA",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["qbe", "C"],
+      "project": "none",
+      "tags": ["compilers", "new language", "nerdy", "qbe"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Hare Programming Language",
       "url": "https://www.youtube.com/watch?v=2E3E_Rh3mvw",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["hare"],
+      "project": "none",
+      "tags": ["new language", "nerdy", "hare", "raylib speedrun"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Unreasonable Effectiveness of Abstractions",
       "url": "https://www.youtube.com/watch?v=Bafo3hhheHU",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["JS", "C"],
+      "project": "zozlib.js",
+      "tags": ["web", "wasm"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Rewriting Raylib in JavaScript",
       "url": "https://www.youtube.com/watch?v=i4Tam03E-Oc",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["JS", "C"],
+      "project": "zozlib.js",
+      "tags": ["web", "wasm"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Easy Web Games in C",
       "url": "https://www.youtube.com/watch?v=H_cnrhVYsK0",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["JS", "C"],
+      "project": "zozlib.js",
+      "tags": ["web", "wasm"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Easy Annoying Popups in C",
       "url": "https://www.youtube.com/watch?v=GvWCpsZcaBE",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "musializer",
+      "tags": ["UI", "raylib", "animation"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I fixed Lua",
       "url": "https://www.youtube.com/watch?v=5CaoYmXYx6U",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C", "lua"],
+      "project": "none",
+      "tags": ["new language", "foreign codebase"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "GameDev in Assembly?!",
       "url": "https://www.youtube.com/watch?v=p60L-TOecik",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["fasm", "C"],
+      "project": "none",
+      "tags": ["raylib speedrun", "nerdy", "low level"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "I made JIT Compiler for Brainf*ck lol",
       "url": "https://www.youtube.com/watch?v=mbFY3Rwv7XM",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C", "fasm", "brainfuck"],
+      "project": "none",
+      "tags": ["low level", "nerdy", "new language"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Just Buy More Cores (1min to 1sec no optimization)",
       "url": "https://www.youtube.com/watch?v=yef1_cMFknM",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "Data Mining",
+      "tags": ["optimisation", "data", "nerdy"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "Zip works Better than AI",
       "url": "https://www.youtube.com/watch?v=9n39SbRPXKQ",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "Data Mining",
+      "tags": ["gzip", "compression", "data", "nerdy"],
       "minitags": [],
       "timestamps": []
     },
     {
       "videotitle": "You don't need DOM",
       "url": "https://www.youtube.com/watch?v=ZN4Nk4zHksU",
-      "languages": [],
-      "project": "",
-      "tags": [],
+      "languages": ["C"],
+      "project": "musializer",
+      "tags": ["UI", "raylib", "???"],
       "minitags": [],
       "timestamps": []
     },
