@@ -28,7 +28,7 @@ window.onload = () => {
         document.body.classList.add('dark');
     }
     const button = document.createElement('button');
-    button.innerHTML = theme === 'dark' ? darkModeSVG : lightModeSVG;
+    button.innerHTML = theme === 'light' ? lightModeSVG : darkModeSVG;
     button.addEventListener('click', toggleTheme);
     button.classList.add('iconbutton');
     document.body.appendChild(button);
