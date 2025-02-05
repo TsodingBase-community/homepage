@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Iosevka;
+    src: url(fonts/Iosevka-Extended_min.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.dark {
+    --background-color: #181818;
+    --text-color: #e4e4e4;
+    --important-color: #ffd700;
+    --italic-color: #87afd7;
+    --link-color: #87d75f;
+}
+
+.light {
+    --background-color: #fbf1c7;
+    --text-color: #282828;
+    --important-color: #4E3309;
+    --italic-color: #043D48;
+    --link-color: #3B3907;
+}
+
+
+body {
+    font-family: Iosevka;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.important {
+    color: var(--important-color);
+}
+
+i {
+    color: var(--italic-color);
+}
+
+a {
+    color: var(--link-color);
+}
+
+.body {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    max-width: 1000px;
+}
+
+.iconbutton {
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: var(--background-color);
+    border: none;
+    cursor: pointer;
+    padding: 16px;
+}
